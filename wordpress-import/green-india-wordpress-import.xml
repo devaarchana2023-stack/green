@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+  xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wp="http://wordpress.org/export/1.2/">
+<channel>
+  <title>Green India Private Limited</title>
+  <link>https://greenindiabiobags.com</link>
+  <description>From Nature, Back to Nature.</description>
+  <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+  <language>en-IN</language>
+  <wp:wxr_version>1.2</wp:wxr_version>
+  <wp:base_site_url>https://greenindiabiobags.com</wp:base_site_url>
+  <wp:base_blog_url>https://greenindiabiobags.com</wp:base_blog_url>
+  <wp:author>
+    <wp:author_id>1</wp:author_id>
+    <wp:author_login><![CDATA[admin]]></wp:author_login>
+    <wp:author_email><![CDATA[greenindiabiobags.it@gmail.com]]></wp:author_email>
+    <wp:author_display_name><![CDATA[Green India Admin]]></wp:author_display_name>
+  </wp:author>
+
+  <item>
+    <title><![CDATA[Home]]></title>
+    <link>https://greenindiabiobags.com/home/</link>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://greenindiabiobags.com/?page_id=101</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[Exact match of greenindiabags.com Home page: 3-slide Hero Slider, 4 Trust Badges, Dynamic Our Products Carousel, 4 Impact Counters, and Why Certified Compostable section.]]></excerpt:encoded>
+    <wp:post_id>101</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-25 16:23:36]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 16:23:36]]></wp:post_date_gmt>
+    <wp:post_name><![CDATA[home]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+      <wp:meta_value><![CDATA[builder]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+      <wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+      <wp:meta_value><![CDATA[3.25.0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+      <wp:meta_value><![CDATA[[{"id":"c3ea","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"hero3e9","elType":"widget","widgetType":"gi_hero_slider","settings":{"slide1_tag":"🌱 From Nature, Back to Nature","slide1_title":"Pollution Free Society","slide1_desc":"by promoting the use of Compostable Products. Certified by CPCB, New Delhi and CIPET, Chennai.","slide1_btn1_text":"Shop products","slide1_btn1_url":"/shop/","slide1_btn2_text":"Our story","slide1_btn2_url":"/about-us/","slide2_tag":"♻️ Compostable Products","slide2_title":"Say No to Plastic","slide2_desc":"Biodegradable is Fantastic. Switch to bags that go back to the soil.","slide2_btn1_text":"Explore bags","slide2_btn1_url":"/our-products/","slide2_btn2_text":"Certifications","slide2_btn2_url":"/certification/","slide3_tag":"🌾 Renewable Sources","slide3_title":"Based on natural origin renewable sources","slide3_desc":"Starch-based compostable products that decompose within six months in soil.","slide3_btn1_text":"Get a quote","slide3_btn1_url":"/contact/"},"elements":[]}]},{"id":"c3f4","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"16","right":"0","bottom":"12","left":"0","isLinked":false},"background_background":"classic","background_color":"#f6f8f1"},"elements":[{"id":"c3f3","elType":"container","isInner":true,"settings":{"flex_direction":"row","content_width":"boxed","flex_gap":{"unit":"px","size":12,"column":"12","row":"12"},"padding":{"unit":"px","top":"0","right":"20","bottom":"24","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"c3ec","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"16","right":"14","bottom":"16","left":"14","isLinked":false},"width":{"unit":"%","size":25},"background_background":"classic","background_color":"#ffffff","border_radius":{"unit":"px","top":"14","right":"14","bottom":"14","left":"14","isLinked":true},"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#dbe5d2"},"elements":[{"id":"h3eb","elType":"widget","widgetType":"heading","settings":{"title":"NON TOXIC","header_size":"h3","align":"center","title_color":"#1b5e20","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":13},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]}]},{"id":"c3ee","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"16","right":"14","bottom":"16","left":"14","isLinked":false},"width":{"unit":"%","size":25},"background_background":"classic","background_color":"#ffffff","border_radius":{"unit":"px","top":"14","right":"14","bottom":"14","left":"14","isLinked":true},"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#dbe5d2"},"elements":[{"id":"h3ed","elType":"widget","widgetType":"heading","settings":{"title":"100% NATURAL","header_size":"h3","align":"center","title_color":"#1b5e20","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":13},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]}]},{"id":"c3f0","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"16","right":"14","bottom":"16","left":"14","isLinked":false},"width":{"unit":"%","size":25},"background_background":"classic","background_color":"#ffffff","border_radius":{"unit":"px","top":"14","right":"14","bottom":"14","left":"14","isLinked":true},"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#dbe5d2"},"elements":[{"id":"h3ef","elType":"widget","widgetType":"heading","settings":{"title":"COMPOSTABLE","header_size":"h3","align":"center","title_color":"#1b5e20","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":13},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]}]},{"id":"c3f2","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"16","right":"14","bottom":"16","left":"14","isLinked":false},"width":{"unit":"%","size":25},"background_background":"classic","background_color":"#ffffff","border_radius":{"unit":"px","top":"14","right":"14","bottom":"14","left":"14","isLinked":true},"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#dbe5d2"},"elements":[{"id":"h3f1","elType":"widget","widgetType":"heading","settings":{"title":"ECO FRIENDLY","header_size":"h3","align":"center","title_color":"#1b5e20","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":13},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]}]}]}]},{"id":"c3fa","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"24","right":"20","bottom":"24","left":"20","isLinked":false},"background_background":"classic","background_color":"#f6f8f1"},"elements":[{"id":"c3f9","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":20,"column":"20","row":"20"},"padding":{"unit":"px","top":"32","right":"20","bottom":"32","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"h3f5","elType":"widget","widgetType":"heading","settings":{"title":"Our Products","header_size":"h2","align":"center","title_color":"#17301f","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":40},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t3f6","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Explore our range of compostable bags and packaging for everyday and industrial needs.</p>","align":"center","text_color":"#5b6e60","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":16},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]},{"id":"catcar3f7","elType":"widget","widgetType":"gi_category_carousel","settings":{"layout_mode":"carousel","columns":4,"card_bg_color":"#ffffff","accent_color":"#2e7d32"},"elements":[]},{"id":"b3f8","elType":"widget","widgetType":"button","settings":{"text":"View all products","link":{"url":"/our-products/","is_external":"","nofollow":""},"background_color":"#2e7d32","button_text_color":"#ffffff","button_background_hover_color":"#1b5e20","border_radius":{"unit":"px","top":"99","right":"99","bottom":"99","left":"99","isLinked":true},"text_padding":{"unit":"px","top":"12","right":"24","bottom":"12","left":"24","isLinked":false},"typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":15},"typography_font_weight":"600"},"elements":[]}]}]},{"id":"c404","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"16","right":"20","bottom":"42","left":"20","isLinked":false},"background_background":"classic","background_color":"#f6f8f1"},"elements":[{"id":"c403","elType":"container","isInner":true,"settings":{"flex_direction":"row","content_width":"boxed","flex_gap":{"unit":"px","size":20,"column":"20","row":"20"},"padding":{"unit":"px","top":"34","right":"34","bottom":"34","left":"34","isLinked":false},"boxed_width":{"unit":"px","size":1080},"background_background":"classic","background_color":"#062817","border_radius":{"unit":"px","top":"28","right":"28","bottom":"28","left":"28","isLinked":true}},"elements":[{"id":"c3ff","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"12","right":"12","bottom":"12","left":"12","isLinked":false},"width":{"unit":"%","size":25}},"elements":[{"id":"cnt3fb","elType":"widget","widgetType":"counter","settings":{"starting_number":0,"ending_number":180,"suffix":"","duration":1600,"title":"max days to degrade","number_color":"#a5d66b","title_color":"#cfe3d1","typography_number_typography":"custom","typography_number_font_family":"Fraunces","typography_number_font_size":{"unit":"px","size":46},"typography_number_font_weight":"800"},"elements":[]}]},{"id":"c400","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"12","right":"12","bottom":"12","left":"12","isLinked":false},"width":{"unit":"%","size":25}},"elements":[{"id":"cnt3fc","elType":"widget","widgetType":"counter","settings":{"starting_number":0,"ending_number":7,"suffix":"","duration":1600,"title":"bag categories","number_color":"#a5d66b","title_color":"#cfe3d1","typography_number_typography":"custom","typography_number_font_family":"Fraunces","typography_number_font_size":{"unit":"px","size":46},"typography_number_font_weight":"800"},"elements":[]}]},{"id":"c401","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"12","right":"12","bottom":"12","left":"12","isLinked":false},"width":{"unit":"%","size":25}},"elements":[{"id":"cnt3fd","elType":"widget","widgetType":"counter","settings":{"starting_number":0,"ending_number":100,"suffix":"%","duration":1600,"title":"natural origin","number_color":"#a5d66b","title_color":"#cfe3d1","typography_number_typography":"custom","typography_number_font_family":"Fraunces","typography_number_font_size":{"unit":"px","size":46},"typography_number_font_weight":"800"},"elements":[]}]},{"id":"c402","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"12","right":"12","bottom":"12","left":"12","isLinked":false},"width":{"unit":"%","size":25}},"elements":[{"id":"cnt3fe","elType":"widget","widgetType":"counter","settings":{"starting_number":0,"ending_number":1,"suffix":"","duration":1600,"title":"certifying bodies","number_color":"#a5d66b","title_color":"#cfe3d1","typography_number_typography":"custom","typography_number_font_family":"Fraunces","typography_number_font_size":{"unit":"px","size":46},"typography_number_font_weight":"800"},"elements":[]}]}]}]},{"id":"c417","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"24","right":"20","bottom":"24","left":"20","isLinked":false},"background_background":"classic","background_color":"#f6f8f1"},"elements":[{"id":"c416","elType":"container","isInner":true,"settings":{"flex_direction":"row","content_width":"boxed","flex_gap":{"unit":"px","size":34,"column":"34","row":"34"},"padding":{"unit":"px","top":"24","right":"20","bottom":"56","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"c40d","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":14,"column":"14","row":"14"},"padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":false},"width":{"unit":"%","size":55}},"elements":[{"id":"h405","elType":"widget","widgetType":"heading","settings":{"title":"Why certified compostable?","header_size":"h2","align":"left","title_color":"#17301f","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":36},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t406","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Compostable products have a lower ecological footprint than paper and plastic, and use less water and energy to make.</p>","align":"left","text_color":"#5b6e60","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":16},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]},{"id":"il407","elType":"widget","widgetType":"icon-list","settings":{"icon_list":[{"_id":"ili408","text":"Degrade in 60–180 days on average","selected_icon":{"value":"fas fa-leaf","library":"fa-solid"}},{"_id":"ili409","text":"Lower carbon footprint, helping climate change mitigation","selected_icon":{"value":"fas fa-leaf","library":"fa-solid"}},{"_id":"ili40a","text":"Softens in water and dissolves in hot water","selected_icon":{"value":"fas fa-leaf","library":"fa-solid"}},{"_id":"ili40b","text":"Less water and energy used in production","selected_icon":{"value":"fas fa-leaf","library":"fa-solid"}}],"icon_color":"#2e7d32","text_color":"#17301f","space_between":{"unit":"px","size":10},"divider":"yes","divider_style":"dashed","divider_color":"#dbe5d2"},"elements":[]},{"id":"b40c","elType":"widget","widgetType":"button","settings":{"text":"Learn more","link":{"url":"/about-us/","is_external":"","nofollow":""},"background_color":"#2e7d32","button_text_color":"#ffffff","button_background_hover_color":"#1b5e20","border_radius":{"unit":"px","top":"99","right":"99","bottom":"99","left":"99","isLinked":true},"text_padding":{"unit":"px","top":"12","right":"24","bottom":"12","left":"24","isLinked":false},"typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":15},"typography_font_weight":"600"},"elements":[]}]},{"id":"c415","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"28","right":"28","bottom":"28","left":"28","isLinked":false},"width":{"unit":"%","size":45},"background_background":"classic","background_color":"#ffffff","border_radius":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true},"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#dbe5d2"},"elements":[{"id":"h40e","elType":"widget","widgetType":"heading","settings":{"title":"From Source Back to Nature","header_size":"h3","align":"center","title_color":"#1b5e20","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":20},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"il40f","elType":"widget","widgetType":"icon-list","settings":{"icon_list":[{"_id":"ili410","text":"🌽 Renewable source","selected_icon":{"value":"fas fa-arrow-down","library":"fa-solid"}},{"_id":"ili411","text":"🏭 Compostable product","selected_icon":{"value":"fas fa-arrow-down","library":"fa-solid"}},{"_id":"ili412","text":"🛍️ Use","selected_icon":{"value":"fas fa-arrow-down","library":"fa-solid"}},{"_id":"ili413","text":"♻️ Compost","selected_icon":{"value":"fas fa-arrow-down","library":"fa-solid"}},{"_id":"ili414","text":"🌱 Back to nature","selected_icon":{"value":"fas fa-arrow-down","library":"fa-solid"}}],"icon_color":"#2e7d32","text_color":"#17301f","space_between":{"unit":"px","size":10},"divider":"yes","divider_style":"dashed","divider_color":"#dbe5d2"},"elements":[]}]}]}]}]]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+
+  <item>
+    <title><![CDATA[About Us]]></title>
+    <link>https://greenindiabiobags.com/about-us/</link>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://greenindiabiobags.com/?page_id=102</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[Exact Green India About Us page: Who we are, Mission & Promise cards, Unique Features of Green India Bioplastics, and What we offer grid.]]></excerpt:encoded>
+    <wp:post_id>102</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-25 16:23:36]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 16:23:36]]></wp:post_date_gmt>
+    <wp:post_name><![CDATA[about-us]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+      <wp:meta_value><![CDATA[builder]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+      <wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+      <wp:meta_value><![CDATA[3.25.0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+      <wp:meta_value><![CDATA[[{"id":"c41c","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"12","right":"0","bottom":"12","left":"0","isLinked":false},"background_background":"gradient","background_color":"#123d22","background_color_b":"#1b5e20","background_gradient_angle":{"unit":"deg","size":120}},"elements":[{"id":"c41b","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":10,"column":"10","row":"10"},"padding":{"unit":"px","top":"48","right":"20","bottom":"52","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"t418","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>About Us</p>","align":"left","text_color":"#a5d66b","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":13},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]},{"id":"h419","elType":"widget","widgetType":"heading","settings":{"title":"One goal: a pollution-free society.","header_size":"h1","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":44},"typography_font_weight":"800","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t41a","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Green India Private Limited is one of the leading suppliers of compostable products in India.</p>","align":"left","text_color":"#d3e6d4","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":16},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]}]},{"id":"c437","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"24","right":"20","bottom":"24","left":"20","isLinked":false},"background_background":"classic","background_color":"#f6f8f1"},"elements":[{"id":"c428","elType":"container","isInner":true,"settings":{"flex_direction":"row","content_width":"boxed","flex_gap":{"unit":"px","size":32,"column":"32","row":"32"},"padding":{"unit":"px","top":"48","right":"20","bottom":"32","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"c420","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":14,"column":"14","row":"14"},"padding":{"unit":"px","top":"24","right":"20","bottom":"24","left":"20","isLinked":false},"width":{"unit":"%","size":55}},"elements":[{"id":"h41d","elType":"widget","widgetType":"heading","settings":{"title":"Who we are","header_size":"h2","align":"left","title_color":"#17301f","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":34},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t41e","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>We were founded to create a more sustainable, pollution-free society by promoting compostable and starch-based products instead of conventional petroleum-based plastic. We supply finished compostable bags and customise products for your needs.</p>","align":"left","text_color":"#5b6e60","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":16},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]},{"id":"t41f","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>All of our products are certified by the Central Pollution Control Board, New Delhi and CIPET, Chennai.</p>","align":"left","text_color":"#5b6e60","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":16},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]},{"id":"c427","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":16,"column":"16","row":"16"},"padding":{"unit":"px","top":"24","right":"20","bottom":"24","left":"20","isLinked":false},"width":{"unit":"%","size":45}},"elements":[{"id":"c423","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"22","right":"20","bottom":"22","left":"20","isLinked":false},"background_background":"classic","background_color":"#ffffff","border_radius":{"unit":"px","top":"16","right":"16","bottom":"16","left":"16","isLinked":true},"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#dbe5d2"},"elements":[{"id":"h421","elType":"widget","widgetType":"heading","settings":{"title":"🌱 Mission","header_size":"h3","align":"left","title_color":"#1b5e20","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":20},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t422","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Replace petroleum plastic with compostable alternatives.</p>","align":"left","text_color":"#5b6e60","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":14},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]},{"id":"c426","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"22","right":"20","bottom":"22","left":"20","isLinked":false},"background_background":"classic","background_color":"#ffffff","border_radius":{"unit":"px","top":"16","right":"16","bottom":"16","left":"16","isLinked":true},"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#dbe5d2"},"elements":[{"id":"h424","elType":"widget","widgetType":"heading","settings":{"title":"♻️ Promise","header_size":"h3","align":"left","title_color":"#1b5e20","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":20},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t425","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>From Nature, Back to Nature.</p>","align":"left","text_color":"#5b6e60","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":14},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]}]}]},{"id":"c433","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":20,"column":"20","row":"20"},"padding":{"unit":"px","top":"24","right":"20","bottom":"24","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"h429","elType":"widget","widgetType":"heading","settings":{"title":"Features of the Green India Bioplastics","header_size":"h2","align":"center","title_color":"#17301f","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":34},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t42a","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Green India Compostable Products are produced using various compostable polymers obtained from different types of renewable sources. All the products sold by Green India are certified Compostable.</p>","align":"center","text_color":"#5b6e60","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":16},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]},{"id":"c432","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"28","right":"28","bottom":"28","left":"28","isLinked":false},"boxed_width":{"unit":"px","size":820},"background_background":"classic","background_color":"#ffffff","border_radius":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true},"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#dbe5d2"},"elements":[{"id":"h42b","elType":"widget","widgetType":"heading","settings":{"title":"Unique Features of the Green India Bioplastics","header_size":"h3","align":"left","title_color":"#17301f","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":22},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"il42c","elType":"widget","widgetType":"icon-list","settings":{"icon_list":[{"_id":"ili42d","text":"Based on Natural origin renewable sources","selected_icon":{"value":"fas fa-leaf","library":"fa-solid"}},{"_id":"ili42e","text":"Offers full flexibility and mechanical/technical properties similar to that of traditional plastics","selected_icon":{"value":"fas fa-leaf","library":"fa-solid"}},{"_id":"ili42f","text":"Certified Compostable and Biodegradable in accordance with EN13432 and ISO 17088 (depending on the grade)","selected_icon":{"value":"fas fa-leaf","library":"fa-solid"}},{"_id":"ili430","text":"Our products decompose within six months when put in soil","selected_icon":{"value":"fas fa-leaf","library":"fa-solid"}},{"_id":"ili431","text":"OK COMPOST and OK HOME COMPOST certified material (depending on the grade)","selected_icon":{"value":"fas fa-leaf","library":"fa-solid"}}],"icon_color":"#2e7d32","text_color":"#17301f","space_between":{"unit":"px","size":10},"divider":"yes","divider_style":"dashed","divider_color":"#dbe5d2"},"elements":[]}]}]},{"id":"c436","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":24,"column":"24","row":"24"},"padding":{"unit":"px","top":"20","right":"20","bottom":"56","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"h434","elType":"widget","widgetType":"heading","settings":{"title":"What we offer","header_size":"h2","align":"center","title_color":"#17301f","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":34},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"abcat435","elType":"widget","widgetType":"gi_category_carousel","settings":{"layout_mode":"grid","columns":4,"card_bg_color":"#ffffff","accent_color":"#2e7d32"},"elements":[]}]}]}]]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+
+  <item>
+    <title><![CDATA[Our Products]]></title>
+    <link>https://greenindiabiobags.com/our-products/</link>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://greenindiabiobags.com/?page_id=103</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[Overview of all 7 compostable product categories dynamically synced with WooCommerce.]]></excerpt:encoded>
+    <wp:post_id>103</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-25 16:23:36]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 16:23:36]]></wp:post_date_gmt>
+    <wp:post_name><![CDATA[our-products]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+      <wp:meta_value><![CDATA[builder]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+      <wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+      <wp:meta_value><![CDATA[3.25.0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+      <wp:meta_value><![CDATA[[{"id":"c43c","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"12","right":"0","bottom":"12","left":"0","isLinked":false},"background_background":"gradient","background_color":"#123d22","background_color_b":"#1b5e20","background_gradient_angle":{"unit":"deg","size":120}},"elements":[{"id":"c43b","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":10,"column":"10","row":"10"},"padding":{"unit":"px","top":"48","right":"20","bottom":"52","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"t438","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Our Products</p>","align":"left","text_color":"#a5d66b","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":13},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]},{"id":"h439","elType":"widget","widgetType":"heading","settings":{"title":"All our compostable products","header_size":"h1","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":44},"typography_font_weight":"800","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t43a","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Browse our compostable bags and packaging products. Choose a product to see sizes, features and certification.</p>","align":"left","text_color":"#d3e6d4","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":16},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]}]},{"id":"c43f","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"24","right":"20","bottom":"24","left":"20","isLinked":false},"background_background":"classic","background_color":"#f6f8f1"},"elements":[{"id":"c43e","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"40","right":"20","bottom":"24","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"w43d","elType":"widget","widgetType":"gi_category_carousel","settings":{"layout_mode":"grid","columns":4,"card_bg_color":"#ffffff","accent_color":"#2e7d32"},"elements":[]}]}]},{"id":"c446","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"36","right":"20","bottom":"48","left":"20","isLinked":false}},"elements":[{"id":"c445","elType":"container","isInner":true,"settings":{"flex_direction":"row","content_width":"boxed","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"32","right":"36","bottom":"32","left":"36","isLinked":false},"boxed_width":{"unit":"px","size":1120},"background_background":"gradient","background_color":"#123d22","background_color_b":"#2e7d32","background_gradient_angle":{"unit":"deg","size":120},"border_radius":{"unit":"px","top":"22","right":"22","bottom":"22","left":"22","isLinked":true}},"elements":[{"id":"c442","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":6,"column":"6","row":"6"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"width":{"unit":"%","size":72}},"elements":[{"id":"h440","elType":"widget","widgetType":"heading","settings":{"title":"Ready to order?","header_size":"h2","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":26},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t441","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Browse prices and add products to your cart in the shop.</p>","align":"left","text_color":"#d3e6d4","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":15},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]},{"id":"c444","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"width":{"unit":"%","size":28}},"elements":[{"id":"b443","elType":"widget","widgetType":"button","settings":{"text":"Go to Shop","link":{"url":"/shop/","is_external":"","nofollow":""},"background_color":"#a5d66b","button_text_color":"#123d22","button_background_hover_color":"#ffffff","border_radius":{"unit":"px","top":"99","right":"99","bottom":"99","left":"99","isLinked":true},"text_padding":{"unit":"px","top":"12","right":"24","bottom":"12","left":"24","isLinked":false},"typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":15},"typography_font_weight":"600"},"elements":[]}]}]}]}]]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+
+  <item>
+    <title><![CDATA[Shop (Dynamic WooCommerce)]]></title>
+    <link>https://greenindiabiobags.com/shop/</link>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://greenindiabiobags.com/?page_id=104</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[Editable via Elementor! Uses the native Green India WooCommerce Shop Grid widget so adding, editing, or deleting products in WooCommerce automatically updates the Shop page.]]></excerpt:encoded>
+    <wp:post_id>104</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-25 16:23:36]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 16:23:36]]></wp:post_date_gmt>
+    <wp:post_name><![CDATA[shop]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+      <wp:meta_value><![CDATA[builder]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+      <wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+      <wp:meta_value><![CDATA[3.25.0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+      <wp:meta_value><![CDATA[[{"id":"c44b","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"12","right":"0","bottom":"12","left":"0","isLinked":false},"background_background":"gradient","background_color":"#123d22","background_color_b":"#1b5e20","background_gradient_angle":{"unit":"deg","size":120}},"elements":[{"id":"c44a","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":10,"column":"10","row":"10"},"padding":{"unit":"px","top":"48","right":"20","bottom":"52","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"t447","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Shop</p>","align":"left","text_color":"#a5d66b","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":13},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]},{"id":"h448","elType":"widget","widgetType":"heading","settings":{"title":"Compostable products for every need.","header_size":"h1","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":44},"typography_font_weight":"800","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t449","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Shopping, grocery, transparent packaging and garbage bags. Custom sizes and printing on request.</p>","align":"left","text_color":"#d3e6d4","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":16},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]}]},{"id":"c456","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"24","right":"20","bottom":"24","left":"20","isLinked":false},"background_background":"classic","background_color":"#f6f8f1"},"elements":[{"id":"c450","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":24,"column":"24","row":"24"},"padding":{"unit":"px","top":"36","right":"20","bottom":"32","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"c44e","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":4,"column":"4","row":"4"},"padding":{"unit":"px","top":"16","right":"20","bottom":"16","left":"20","isLinked":false},"background_background":"classic","background_color":"#edf8df","border_radius":{"unit":"px","top":"16","right":"16","bottom":"16","left":"16","isLinked":true},"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#9bcf78"},"elements":[{"id":"h44c","elType":"widget","widgetType":"heading","settings":{"title":"✦ Custom Sizes & Printing Available","header_size":"h3","align":"left","title_color":"#1b5e20","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":17},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t44d","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Make it your own. Size and printing can be customised on request.</p>","align":"left","text_color":"#46634a","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":14},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]},{"id":"shopw44f","elType":"widget","widgetType":"gi_shop_grid","settings":{"columns_desktop":4,"columns_tablet":2,"columns_mobile":1,"show_category_filter":"yes","show_stock_badge":"yes","show_size_chips":"yes","button_label":"Choose & Add","card_bg_color":"#ffffff","card_border_color":"#dbe5d2","image_panel_bg":"#e8f3da","primary_color":"#2e7d32","price_color":"#17301f","card_border_radius":18,"sync_mode":"woocommerce_live"},"elements":[]}]},{"id":"c455","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"24","right":"20","bottom":"56","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":760}},"elements":[{"id":"h451","elType":"widget","widgetType":"heading","settings":{"title":"Common questions","header_size":"h2","align":"center","title_color":"#17301f","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":34},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"acc452","elType":"widget","widgetType":"accordion","settings":{"tabs":[{"_id":"t1453","tab_title":"Can I get samples?","tab_content":"<p>Contact us with your product requirements.</p>"},{"_id":"t2454","tab_title":"Do you customise grades?","tab_content":"<p>We can customise products based on your requirements. Contact us with your application.</p>"}],"border_color":"#dbe5d2","title_color":"#17301f","content_color":"#5b6e60"},"elements":[]}]}]}]]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+
+  <item>
+    <title><![CDATA[Certification]]></title>
+    <link>https://greenindiabiobags.com/certification/</link>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://greenindiabiobags.com/?page_id=105</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[CPCB Certificate pages with lightbox-ready Elementor Image widgets.]]></excerpt:encoded>
+    <wp:post_id>105</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-25 16:23:36]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 16:23:36]]></wp:post_date_gmt>
+    <wp:post_name><![CDATA[certification]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+      <wp:meta_value><![CDATA[builder]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+      <wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+      <wp:meta_value><![CDATA[3.25.0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+      <wp:meta_value><![CDATA[[{"id":"c45b","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"12","right":"0","bottom":"12","left":"0","isLinked":false},"background_background":"gradient","background_color":"#123d22","background_color_b":"#1b5e20","background_gradient_angle":{"unit":"deg","size":120}},"elements":[{"id":"c45a","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":10,"column":"10","row":"10"},"padding":{"unit":"px","top":"48","right":"20","bottom":"52","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"t457","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Certification</p>","align":"left","text_color":"#a5d66b","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":13},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]},{"id":"h458","elType":"widget","widgetType":"heading","settings":{"title":"Certified compostable, verified.","header_size":"h1","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":44},"typography_font_weight":"800","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t459","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Our products are certified by the Central Pollution Control Board, New Delhi.</p>","align":"left","text_color":"#d3e6d4","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":16},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]}]},{"id":"c463","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"24","right":"20","bottom":"24","left":"20","isLinked":false},"background_background":"classic","background_color":"#f6f8f1"},"elements":[{"id":"c462","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":28,"column":"28","row":"28"},"padding":{"unit":"px","top":"48","right":"20","bottom":"64","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"h45c","elType":"widget","widgetType":"heading","settings":{"title":"CPCB Certificate","header_size":"h2","align":"center","title_color":"#17301f","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":36},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"c461","elType":"container","isInner":true,"settings":{"flex_direction":"row","content_width":"boxed","flex_gap":{"unit":"px","size":22,"column":"22","row":"22"},"padding":{"unit":"px","top":"24","right":"20","bottom":"24","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"c45e","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"14","right":"14","bottom":"14","left":"14","isLinked":false},"width":{"unit":"%","size":50},"background_background":"classic","background_color":"#ffffff","border_radius":{"unit":"px","top":"18","right":"18","bottom":"18","left":"18","isLinked":true},"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#dbe5d2"},"elements":[{"id":"img45d","elType":"widget","widgetType":"image","settings":{"image":{"url":"https://greenindiabiobags.com/wp-content/uploads/green-india/cert-1.webp","id":""},"image_size":"full","caption_source":"none","_title":"CPCB Certificate Page 1","width":{"unit":"%","size":100},"image_border_radius":{"unit":"px","top":"12","right":"12","bottom":"12","left":"12","isLinked":true}},"elements":[]}]},{"id":"c460","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"14","right":"14","bottom":"14","left":"14","isLinked":false},"width":{"unit":"%","size":50},"background_background":"classic","background_color":"#ffffff","border_radius":{"unit":"px","top":"18","right":"18","bottom":"18","left":"18","isLinked":true},"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#dbe5d2"},"elements":[{"id":"img45f","elType":"widget","widgetType":"image","settings":{"image":{"url":"https://greenindiabiobags.com/wp-content/uploads/green-india/cert-2.webp","id":""},"image_size":"full","caption_source":"none","_title":"CPCB Certificate Page 2","width":{"unit":"%","size":100},"image_border_radius":{"unit":"px","top":"12","right":"12","bottom":"12","left":"12","isLinked":true}},"elements":[]}]}]}]}]}]]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+
+  <item>
+    <title><![CDATA[Contact Us]]></title>
+    <link>https://greenindiabiobags.com/contact/</link>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://greenindiabiobags.com/?page_id=106</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[Exact Contact details dark box and WhatsApp enquiry form built natively in Elementor.]]></excerpt:encoded>
+    <wp:post_id>106</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-25 16:23:36]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 16:23:36]]></wp:post_date_gmt>
+    <wp:post_name><![CDATA[contact]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+      <wp:meta_value><![CDATA[builder]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+      <wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+      <wp:meta_value><![CDATA[3.25.0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+      <wp:meta_value><![CDATA[[{"id":"c468","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"12","right":"0","bottom":"12","left":"0","isLinked":false},"background_background":"gradient","background_color":"#123d22","background_color_b":"#1b5e20","background_gradient_angle":{"unit":"deg","size":120}},"elements":[{"id":"c467","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":10,"column":"10","row":"10"},"padding":{"unit":"px","top":"48","right":"20","bottom":"52","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"t464","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Contact Us</p>","align":"left","text_color":"#a5d66b","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":13},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]},{"id":"h465","elType":"widget","widgetType":"heading","settings":{"title":"Let’s go green together.","header_size":"h1","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":44},"typography_font_weight":"800","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t466","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Bulk orders or custom printing — we’d love to hear from you.</p>","align":"left","text_color":"#d3e6d4","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":16},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]}]},{"id":"c473","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"24","right":"20","bottom":"24","left":"20","isLinked":false},"background_background":"classic","background_color":"#f6f8f1"},"elements":[{"id":"c472","elType":"container","isInner":true,"settings":{"flex_direction":"row","content_width":"boxed","flex_gap":{"unit":"px","size":26,"column":"26","row":"26"},"padding":{"unit":"px","top":"48","right":"20","bottom":"64","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"c46f","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":14,"column":"14","row":"14"},"padding":{"unit":"px","top":"28","right":"28","bottom":"28","left":"28","isLinked":false},"width":{"unit":"%","size":50},"background_background":"classic","background_color":"#123d22","border_radius":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true}},"elements":[{"id":"h469","elType":"widget","widgetType":"heading","settings":{"title":"Green India Private Limited","header_size":"h2","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":24},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"il46a","elType":"widget","widgetType":"icon-list","settings":{"icon_list":[{"_id":"ili46b","text":"📍 No.4, Sahjanand Ruber Industrial Estate, Bapinagar, Ahmedabad, Gujarat – 380024","selected_icon":{"value":"fas fa-check","library":"fa-solid"}},{"_id":"ili46c","text":"📞 +91 94894 65676","selected_icon":{"value":"fas fa-check","library":"fa-solid"}},{"_id":"ili46d","text":"✉️ greenindiabiobags.it@gmail.com","selected_icon":{"value":"fas fa-check","library":"fa-solid"}}],"icon_color":"#a5d66b","text_color":"#cfe3d1","space_between":{"unit":"px","size":10},"divider":"yes","divider_style":"dashed","divider_color":"#dbe5d2"},"elements":[]},{"id":"b46e","elType":"widget","widgetType":"button","settings":{"text":"Call now","link":{"url":"tel:+919489465676","is_external":"","nofollow":""},"background_color":"#a5d66b","button_text_color":"#123d22","button_background_hover_color":"#ffffff","border_radius":{"unit":"px","top":"99","right":"99","bottom":"99","left":"99","isLinked":true},"text_padding":{"unit":"px","top":"12","right":"24","bottom":"12","left":"24","isLinked":false},"typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":15},"typography_font_weight":"600"},"elements":[]}]},{"id":"c471","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"28","right":"28","bottom":"28","left":"28","isLinked":false},"width":{"unit":"%","size":50},"background_background":"classic","background_color":"#ffffff","border_radius":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true},"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#dbe5d2"},"elements":[{"id":"cform470","elType":"widget","widgetType":"gi_contact_form","settings":{"form_title":"Send an enquiry","button_text":"Send on WhatsApp","whatsapp_number":"919489465676"},"elements":[]}]}]}]}]]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+
+  <item>
+    <title><![CDATA[Compostable Shopping / Carry Bag]]></title>
+    <link>https://greenindiabiobags.com/carry-bags/</link>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://greenindiabiobags.com/?page_id=107</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[Exact category & WooCommerce configurator page for Compostable Shopping / Carry Bag.]]></excerpt:encoded>
+    <wp:post_id>107</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-25 16:23:36]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 16:23:36]]></wp:post_date_gmt>
+    <wp:post_name><![CDATA[carry-bags]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+      <wp:meta_value><![CDATA[builder]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+      <wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+      <wp:meta_value><![CDATA[3.25.0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+      <wp:meta_value><![CDATA[[{"id":"c478","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"12","right":"0","bottom":"12","left":"0","isLinked":false},"background_background":"gradient","background_color":"#123d22","background_color_b":"#1b5e20","background_gradient_angle":{"unit":"deg","size":120}},"elements":[{"id":"c477","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":10,"column":"10","row":"10"},"padding":{"unit":"px","top":"48","right":"20","bottom":"52","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"t474","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Our Products</p>","align":"left","text_color":"#a5d66b","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":13},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]},{"id":"h475","elType":"widget","widgetType":"heading","settings":{"title":"Compostable Shopping / Carry Bag","header_size":"h1","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":44},"typography_font_weight":"800","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t476","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Certified compostable carry bags with fantastic mechanical strength, for supermarkets, food delivery, hotels and grocery stores.</p>","align":"left","text_color":"#d3e6d4","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":16},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]}]},{"id":"c47b","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"24","right":"20","bottom":"24","left":"20","isLinked":false},"background_background":"classic","background_color":"#f6f8f1"},"elements":[{"id":"c47a","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"36","right":"20","bottom":"32","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"pconf479","elType":"widget","widgetType":"gi_product_configurator","settings":{"product_sku":"GI-CB-001","show_size_table":"yes","show_color_swatches":"yes","show_custom_notice":"yes","show_related_products":"yes","primary_color":"#2e7d32","accent_bg":"#e8f3da"},"elements":[]}]}]},{"id":"c482","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"36","right":"20","bottom":"48","left":"20","isLinked":false}},"elements":[{"id":"c481","elType":"container","isInner":true,"settings":{"flex_direction":"row","content_width":"boxed","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"32","right":"36","bottom":"32","left":"36","isLinked":false},"boxed_width":{"unit":"px","size":1120},"background_background":"gradient","background_color":"#123d22","background_color_b":"#2e7d32","background_gradient_angle":{"unit":"deg","size":120},"border_radius":{"unit":"px","top":"22","right":"22","bottom":"22","left":"22","isLinked":true}},"elements":[{"id":"c47e","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":6,"column":"6","row":"6"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"width":{"unit":"%","size":72}},"elements":[{"id":"h47c","elType":"widget","widgetType":"heading","settings":{"title":"Need a custom size or printing?","header_size":"h2","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":26},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t47d","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Tell us your requirement and our team will get back to you.</p>","align":"left","text_color":"#d3e6d4","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":15},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]},{"id":"c480","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"width":{"unit":"%","size":28}},"elements":[{"id":"b47f","elType":"widget","widgetType":"button","settings":{"text":"Contact us","link":{"url":"/contact/","is_external":"","nofollow":""},"background_color":"#a5d66b","button_text_color":"#123d22","button_background_hover_color":"#ffffff","border_radius":{"unit":"px","top":"99","right":"99","bottom":"99","left":"99","isLinked":true},"text_padding":{"unit":"px","top":"12","right":"24","bottom":"12","left":"24","isLinked":false},"typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":15},"typography_font_weight":"600"},"elements":[]}]}]}]}]]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+
+  <item>
+    <title><![CDATA[Sambar Cover / Pouch Cover]]></title>
+    <link>https://greenindiabiobags.com/sambar-cover/</link>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://greenindiabiobags.com/?page_id=108</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[Exact category & WooCommerce configurator page for Sambar Cover / Pouch Cover.]]></excerpt:encoded>
+    <wp:post_id>108</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-25 16:23:36]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 16:23:36]]></wp:post_date_gmt>
+    <wp:post_name><![CDATA[sambar-cover]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+      <wp:meta_value><![CDATA[builder]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+      <wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+      <wp:meta_value><![CDATA[3.25.0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+      <wp:meta_value><![CDATA[[{"id":"c487","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"12","right":"0","bottom":"12","left":"0","isLinked":false},"background_background":"gradient","background_color":"#123d22","background_color_b":"#1b5e20","background_gradient_angle":{"unit":"deg","size":120}},"elements":[{"id":"c486","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":10,"column":"10","row":"10"},"padding":{"unit":"px","top":"48","right":"20","bottom":"52","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"t483","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Our Products</p>","align":"left","text_color":"#a5d66b","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":13},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]},{"id":"h484","elType":"widget","widgetType":"heading","settings":{"title":"Sambar Cover / Pouch Cover","header_size":"h1","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":44},"typography_font_weight":"800","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t485","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Compostable sambar cover and pouch cover for food packing and takeaway use.</p>","align":"left","text_color":"#d3e6d4","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":16},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]}]},{"id":"c48a","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"24","right":"20","bottom":"24","left":"20","isLinked":false},"background_background":"classic","background_color":"#f6f8f1"},"elements":[{"id":"c489","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"36","right":"20","bottom":"32","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"pconf488","elType":"widget","widgetType":"gi_product_configurator","settings":{"product_sku":"GI-SC-103","show_size_table":"yes","show_color_swatches":"yes","show_custom_notice":"yes","show_related_products":"yes","primary_color":"#2e7d32","accent_bg":"#e8f3da"},"elements":[]}]}]},{"id":"c491","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"36","right":"20","bottom":"48","left":"20","isLinked":false}},"elements":[{"id":"c490","elType":"container","isInner":true,"settings":{"flex_direction":"row","content_width":"boxed","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"32","right":"36","bottom":"32","left":"36","isLinked":false},"boxed_width":{"unit":"px","size":1120},"background_background":"gradient","background_color":"#123d22","background_color_b":"#2e7d32","background_gradient_angle":{"unit":"deg","size":120},"border_radius":{"unit":"px","top":"22","right":"22","bottom":"22","left":"22","isLinked":true}},"elements":[{"id":"c48d","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":6,"column":"6","row":"6"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"width":{"unit":"%","size":72}},"elements":[{"id":"h48b","elType":"widget","widgetType":"heading","settings":{"title":"Need a custom size or printing?","header_size":"h2","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":26},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t48c","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Tell us your requirement and our team will get back to you.</p>","align":"left","text_color":"#d3e6d4","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":15},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]},{"id":"c48f","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"width":{"unit":"%","size":28}},"elements":[{"id":"b48e","elType":"widget","widgetType":"button","settings":{"text":"Contact us","link":{"url":"/contact/","is_external":"","nofollow":""},"background_color":"#a5d66b","button_text_color":"#123d22","button_background_hover_color":"#ffffff","border_radius":{"unit":"px","top":"99","right":"99","bottom":"99","left":"99","isLinked":true},"text_padding":{"unit":"px","top":"12","right":"24","bottom":"12","left":"24","isLinked":false},"typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":15},"typography_font_weight":"600"},"elements":[]}]}]}]}]]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+
+  <item>
+    <title><![CDATA[Compostable Grocery Bag]]></title>
+    <link>https://greenindiabiobags.com/grocery-bags/</link>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://greenindiabiobags.com/?page_id=109</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[Exact category & WooCommerce configurator page for Compostable Grocery Bag.]]></excerpt:encoded>
+    <wp:post_id>109</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-25 16:23:36]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 16:23:36]]></wp:post_date_gmt>
+    <wp:post_name><![CDATA[grocery-bags]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+      <wp:meta_value><![CDATA[builder]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+      <wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+      <wp:meta_value><![CDATA[3.25.0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+      <wp:meta_value><![CDATA[[{"id":"c496","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"12","right":"0","bottom":"12","left":"0","isLinked":false},"background_background":"gradient","background_color":"#123d22","background_color_b":"#1b5e20","background_gradient_angle":{"unit":"deg","size":120}},"elements":[{"id":"c495","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":10,"column":"10","row":"10"},"padding":{"unit":"px","top":"48","right":"20","bottom":"52","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"t492","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Our Products</p>","align":"left","text_color":"#a5d66b","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":13},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]},{"id":"h493","elType":"widget","widgetType":"heading","settings":{"title":"Compostable Grocery Bag","header_size":"h1","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":44},"typography_font_weight":"800","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t494","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Certified compostable grocery bags.</p>","align":"left","text_color":"#d3e6d4","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":16},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]}]},{"id":"c499","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"24","right":"20","bottom":"24","left":"20","isLinked":false},"background_background":"classic","background_color":"#f6f8f1"},"elements":[{"id":"c498","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"36","right":"20","bottom":"32","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"pconf497","elType":"widget","widgetType":"gi_product_configurator","settings":{"product_sku":"GI-GB-002","show_size_table":"yes","show_color_swatches":"yes","show_custom_notice":"yes","show_related_products":"yes","primary_color":"#2e7d32","accent_bg":"#e8f3da"},"elements":[]}]}]},{"id":"c4a0","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"36","right":"20","bottom":"48","left":"20","isLinked":false}},"elements":[{"id":"c49f","elType":"container","isInner":true,"settings":{"flex_direction":"row","content_width":"boxed","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"32","right":"36","bottom":"32","left":"36","isLinked":false},"boxed_width":{"unit":"px","size":1120},"background_background":"gradient","background_color":"#123d22","background_color_b":"#2e7d32","background_gradient_angle":{"unit":"deg","size":120},"border_radius":{"unit":"px","top":"22","right":"22","bottom":"22","left":"22","isLinked":true}},"elements":[{"id":"c49c","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":6,"column":"6","row":"6"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"width":{"unit":"%","size":72}},"elements":[{"id":"h49a","elType":"widget","widgetType":"heading","settings":{"title":"Need a custom size or printing?","header_size":"h2","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":26},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t49b","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Tell us your requirement and our team will get back to you.</p>","align":"left","text_color":"#d3e6d4","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":15},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]},{"id":"c49e","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"width":{"unit":"%","size":28}},"elements":[{"id":"b49d","elType":"widget","widgetType":"button","settings":{"text":"Contact us","link":{"url":"/contact/","is_external":"","nofollow":""},"background_color":"#a5d66b","button_text_color":"#123d22","button_background_hover_color":"#ffffff","border_radius":{"unit":"px","top":"99","right":"99","bottom":"99","left":"99","isLinked":true},"text_padding":{"unit":"px","top":"12","right":"24","bottom":"12","left":"24","isLinked":false},"typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":15},"typography_font_weight":"600"},"elements":[]}]}]}]}]]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+
+  <item>
+    <title><![CDATA[Compostable Transparent Packaging Bag]]></title>
+    <link>https://greenindiabiobags.com/transparent-bags/</link>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://greenindiabiobags.com/?page_id=110</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[Exact category & WooCommerce configurator page for Compostable Transparent Packaging Bag.]]></excerpt:encoded>
+    <wp:post_id>110</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-25 16:23:36]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 16:23:36]]></wp:post_date_gmt>
+    <wp:post_name><![CDATA[transparent-bags]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+      <wp:meta_value><![CDATA[builder]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+      <wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+      <wp:meta_value><![CDATA[3.25.0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+      <wp:meta_value><![CDATA[[{"id":"c4a5","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"12","right":"0","bottom":"12","left":"0","isLinked":false},"background_background":"gradient","background_color":"#123d22","background_color_b":"#1b5e20","background_gradient_angle":{"unit":"deg","size":120}},"elements":[{"id":"c4a4","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":10,"column":"10","row":"10"},"padding":{"unit":"px","top":"48","right":"20","bottom":"52","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"t4a1","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Our Products</p>","align":"left","text_color":"#a5d66b","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":13},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]},{"id":"h4a2","elType":"widget","widgetType":"heading","settings":{"title":"Compostable Transparent Packaging Bag","header_size":"h1","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":44},"typography_font_weight":"800","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t4a3","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Certified compostable transparent packaging bags.</p>","align":"left","text_color":"#d3e6d4","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":16},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]}]},{"id":"c4a8","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"24","right":"20","bottom":"24","left":"20","isLinked":false},"background_background":"classic","background_color":"#f6f8f1"},"elements":[{"id":"c4a7","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"36","right":"20","bottom":"32","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"pconf4a6","elType":"widget","widgetType":"gi_product_configurator","settings":{"product_sku":"GI-TB-003","show_size_table":"yes","show_color_swatches":"yes","show_custom_notice":"yes","show_related_products":"yes","primary_color":"#2e7d32","accent_bg":"#e8f3da"},"elements":[]}]}]},{"id":"c4af","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"36","right":"20","bottom":"48","left":"20","isLinked":false}},"elements":[{"id":"c4ae","elType":"container","isInner":true,"settings":{"flex_direction":"row","content_width":"boxed","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"32","right":"36","bottom":"32","left":"36","isLinked":false},"boxed_width":{"unit":"px","size":1120},"background_background":"gradient","background_color":"#123d22","background_color_b":"#2e7d32","background_gradient_angle":{"unit":"deg","size":120},"border_radius":{"unit":"px","top":"22","right":"22","bottom":"22","left":"22","isLinked":true}},"elements":[{"id":"c4ab","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":6,"column":"6","row":"6"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"width":{"unit":"%","size":72}},"elements":[{"id":"h4a9","elType":"widget","widgetType":"heading","settings":{"title":"Need a custom size or printing?","header_size":"h2","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":26},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t4aa","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Tell us your requirement and our team will get back to you.</p>","align":"left","text_color":"#d3e6d4","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":15},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]},{"id":"c4ad","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"width":{"unit":"%","size":28}},"elements":[{"id":"b4ac","elType":"widget","widgetType":"button","settings":{"text":"Contact us","link":{"url":"/contact/","is_external":"","nofollow":""},"background_color":"#a5d66b","button_text_color":"#123d22","button_background_hover_color":"#ffffff","border_radius":{"unit":"px","top":"99","right":"99","bottom":"99","left":"99","isLinked":true},"text_padding":{"unit":"px","top":"12","right":"24","bottom":"12","left":"24","isLinked":false},"typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":15},"typography_font_weight":"600"},"elements":[]}]}]}]}]]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+
+  <item>
+    <title><![CDATA[Compostable Garbage Bag]]></title>
+    <link>https://greenindiabiobags.com/garbage-bags/</link>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://greenindiabiobags.com/?page_id=111</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[Exact category & WooCommerce configurator page for Compostable Garbage Bag.]]></excerpt:encoded>
+    <wp:post_id>111</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-25 16:23:36]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 16:23:36]]></wp:post_date_gmt>
+    <wp:post_name><![CDATA[garbage-bags]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+      <wp:meta_value><![CDATA[builder]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+      <wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+      <wp:meta_value><![CDATA[3.25.0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+      <wp:meta_value><![CDATA[[{"id":"c4b4","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"12","right":"0","bottom":"12","left":"0","isLinked":false},"background_background":"gradient","background_color":"#123d22","background_color_b":"#1b5e20","background_gradient_angle":{"unit":"deg","size":120}},"elements":[{"id":"c4b3","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":10,"column":"10","row":"10"},"padding":{"unit":"px","top":"48","right":"20","bottom":"52","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"t4b0","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Our Products</p>","align":"left","text_color":"#a5d66b","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":13},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]},{"id":"h4b1","elType":"widget","widgetType":"heading","settings":{"title":"Compostable Garbage Bag","header_size":"h1","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":44},"typography_font_weight":"800","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t4b2","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Certified compostable garbage bags in sizes from kitchen bins to large waste containers.</p>","align":"left","text_color":"#d3e6d4","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":16},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]}]},{"id":"c4b7","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"24","right":"20","bottom":"24","left":"20","isLinked":false},"background_background":"classic","background_color":"#f6f8f1"},"elements":[{"id":"c4b6","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"36","right":"20","bottom":"32","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"pconf4b5","elType":"widget","widgetType":"gi_product_configurator","settings":{"product_sku":"GI-GBA-004","show_size_table":"yes","show_color_swatches":"yes","show_custom_notice":"yes","show_related_products":"yes","primary_color":"#2e7d32","accent_bg":"#e8f3da"},"elements":[]}]}]},{"id":"c4be","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"36","right":"20","bottom":"48","left":"20","isLinked":false}},"elements":[{"id":"c4bd","elType":"container","isInner":true,"settings":{"flex_direction":"row","content_width":"boxed","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"32","right":"36","bottom":"32","left":"36","isLinked":false},"boxed_width":{"unit":"px","size":1120},"background_background":"gradient","background_color":"#123d22","background_color_b":"#2e7d32","background_gradient_angle":{"unit":"deg","size":120},"border_radius":{"unit":"px","top":"22","right":"22","bottom":"22","left":"22","isLinked":true}},"elements":[{"id":"c4ba","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":6,"column":"6","row":"6"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"width":{"unit":"%","size":72}},"elements":[{"id":"h4b8","elType":"widget","widgetType":"heading","settings":{"title":"Need a custom size or printing?","header_size":"h2","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":26},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t4b9","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Tell us your requirement and our team will get back to you.</p>","align":"left","text_color":"#d3e6d4","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":15},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]},{"id":"c4bc","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"width":{"unit":"%","size":28}},"elements":[{"id":"b4bb","elType":"widget","widgetType":"button","settings":{"text":"Contact us","link":{"url":"/contact/","is_external":"","nofollow":""},"background_color":"#a5d66b","button_text_color":"#123d22","button_background_hover_color":"#ffffff","border_radius":{"unit":"px","top":"99","right":"99","bottom":"99","left":"99","isLinked":true},"text_padding":{"unit":"px","top":"12","right":"24","bottom":"12","left":"24","isLinked":false},"typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":15},"typography_font_weight":"600"},"elements":[]}]}]}]}]]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+
+  <item>
+    <title><![CDATA[Compostable Textile Bag / D-Cut Bag]]></title>
+    <link>https://greenindiabiobags.com/d-cut/</link>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://greenindiabiobags.com/?page_id=112</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[Exact category & WooCommerce configurator page for Compostable Textile Bag / D-Cut Bag.]]></excerpt:encoded>
+    <wp:post_id>112</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-25 16:23:36]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 16:23:36]]></wp:post_date_gmt>
+    <wp:post_name><![CDATA[d-cut]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+      <wp:meta_value><![CDATA[builder]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+      <wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+      <wp:meta_value><![CDATA[3.25.0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+      <wp:meta_value><![CDATA[[{"id":"c4c3","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"12","right":"0","bottom":"12","left":"0","isLinked":false},"background_background":"gradient","background_color":"#123d22","background_color_b":"#1b5e20","background_gradient_angle":{"unit":"deg","size":120}},"elements":[{"id":"c4c2","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":10,"column":"10","row":"10"},"padding":{"unit":"px","top":"48","right":"20","bottom":"52","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"t4bf","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Our Products</p>","align":"left","text_color":"#a5d66b","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":13},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]},{"id":"h4c0","elType":"widget","widgetType":"heading","settings":{"title":"Compostable Textile Bag / D-Cut Bag","header_size":"h1","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":44},"typography_font_weight":"800","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t4c1","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Compostable D-cut handle bags for retail, shopping and everyday packaging.</p>","align":"left","text_color":"#d3e6d4","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":16},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]}]},{"id":"c4c6","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"24","right":"20","bottom":"24","left":"20","isLinked":false},"background_background":"classic","background_color":"#f6f8f1"},"elements":[{"id":"c4c5","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"36","right":"20","bottom":"32","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"pconf4c4","elType":"widget","widgetType":"gi_product_configurator","settings":{"product_sku":"GI-DC-105","show_size_table":"yes","show_color_swatches":"yes","show_custom_notice":"yes","show_related_products":"yes","primary_color":"#2e7d32","accent_bg":"#e8f3da"},"elements":[]}]}]},{"id":"c4cd","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"36","right":"20","bottom":"48","left":"20","isLinked":false}},"elements":[{"id":"c4cc","elType":"container","isInner":true,"settings":{"flex_direction":"row","content_width":"boxed","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"32","right":"36","bottom":"32","left":"36","isLinked":false},"boxed_width":{"unit":"px","size":1120},"background_background":"gradient","background_color":"#123d22","background_color_b":"#2e7d32","background_gradient_angle":{"unit":"deg","size":120},"border_radius":{"unit":"px","top":"22","right":"22","bottom":"22","left":"22","isLinked":true}},"elements":[{"id":"c4c9","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":6,"column":"6","row":"6"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"width":{"unit":"%","size":72}},"elements":[{"id":"h4c7","elType":"widget","widgetType":"heading","settings":{"title":"Need a custom size or printing?","header_size":"h2","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":26},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t4c8","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Tell us your requirement and our team will get back to you.</p>","align":"left","text_color":"#d3e6d4","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":15},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]},{"id":"c4cb","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"width":{"unit":"%","size":28}},"elements":[{"id":"b4ca","elType":"widget","widgetType":"button","settings":{"text":"Contact us","link":{"url":"/contact/","is_external":"","nofollow":""},"background_color":"#a5d66b","button_text_color":"#123d22","button_background_hover_color":"#ffffff","border_radius":{"unit":"px","top":"99","right":"99","bottom":"99","left":"99","isLinked":true},"text_padding":{"unit":"px","top":"12","right":"24","bottom":"12","left":"24","isLinked":false},"typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":15},"typography_font_weight":"600"},"elements":[]}]}]}]}]]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+
+  <item>
+    <title><![CDATA[Compostable Flat Cover]]></title>
+    <link>https://greenindiabiobags.com/flat-cover/</link>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://greenindiabiobags.com/?page_id=113</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[Exact category & WooCommerce configurator page for Compostable Flat Cover.]]></excerpt:encoded>
+    <wp:post_id>113</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-25 16:23:36]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 16:23:36]]></wp:post_date_gmt>
+    <wp:post_name><![CDATA[flat-cover]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+      <wp:meta_value><![CDATA[builder]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+      <wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+      <wp:meta_value><![CDATA[3.25.0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+      <wp:meta_value><![CDATA[[{"id":"c4d2","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"12","right":"0","bottom":"12","left":"0","isLinked":false},"background_background":"gradient","background_color":"#123d22","background_color_b":"#1b5e20","background_gradient_angle":{"unit":"deg","size":120}},"elements":[{"id":"c4d1","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":10,"column":"10","row":"10"},"padding":{"unit":"px","top":"48","right":"20","bottom":"52","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"t4ce","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Our Products</p>","align":"left","text_color":"#a5d66b","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":13},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]},{"id":"h4cf","elType":"widget","widgetType":"heading","settings":{"title":"Compostable Flat Cover","header_size":"h1","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":44},"typography_font_weight":"800","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t4d0","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Compostable flat covers for food, retail and everyday product packaging.</p>","align":"left","text_color":"#d3e6d4","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":16},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]}]},{"id":"c4d5","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"24","right":"20","bottom":"24","left":"20","isLinked":false},"background_background":"classic","background_color":"#f6f8f1"},"elements":[{"id":"c4d4","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"boxed","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"36","right":"20","bottom":"32","left":"20","isLinked":false},"boxed_width":{"unit":"px","size":1120}},"elements":[{"id":"pconf4d3","elType":"widget","widgetType":"gi_product_configurator","settings":{"product_sku":"GI-FC-106","show_size_table":"yes","show_color_swatches":"yes","show_custom_notice":"yes","show_related_products":"yes","primary_color":"#2e7d32","accent_bg":"#e8f3da"},"elements":[]}]}]},{"id":"c4dc","elType":"container","isInner":false,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"36","right":"20","bottom":"48","left":"20","isLinked":false}},"elements":[{"id":"c4db","elType":"container","isInner":true,"settings":{"flex_direction":"row","content_width":"boxed","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"32","right":"36","bottom":"32","left":"36","isLinked":false},"boxed_width":{"unit":"px","size":1120},"background_background":"gradient","background_color":"#123d22","background_color_b":"#2e7d32","background_gradient_angle":{"unit":"deg","size":120},"border_radius":{"unit":"px","top":"22","right":"22","bottom":"22","left":"22","isLinked":true}},"elements":[{"id":"c4d8","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":6,"column":"6","row":"6"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"width":{"unit":"%","size":72}},"elements":[{"id":"h4d6","elType":"widget","widgetType":"heading","settings":{"title":"Need a custom size or printing?","header_size":"h2","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Fraunces","typography_font_size":{"unit":"px","size":26},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":1.15}},"elements":[]},{"id":"t4d7","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Tell us your requirement and our team will get back to you.</p>","align":"left","text_color":"#d3e6d4","typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":15},"typography_line_height":{"unit":"em","size":1.6}},"elements":[]}]},{"id":"c4da","elType":"container","isInner":true,"settings":{"flex_direction":"column","content_width":"full","flex_gap":{"unit":"px","size":18,"column":"18","row":"18"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"width":{"unit":"%","size":28}},"elements":[{"id":"b4d9","elType":"widget","widgetType":"button","settings":{"text":"Contact us","link":{"url":"/contact/","is_external":"","nofollow":""},"background_color":"#a5d66b","button_text_color":"#123d22","button_background_hover_color":"#ffffff","border_radius":{"unit":"px","top":"99","right":"99","bottom":"99","left":"99","isLinked":true},"text_padding":{"unit":"px","top":"12","right":"24","bottom":"12","left":"24","isLinked":false},"typography_typography":"custom","typography_font_family":"Plus Jakarta Sans","typography_font_size":{"unit":"px","size":15},"typography_font_weight":"600"},"elements":[]}]}]}]}]]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+
+  <item>
+    <title><![CDATA[Compostable Shopping / Carry Bag]]></title>
+    <link>https://greenindiabiobags.com/product/carry-bags/</link>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://greenindiabiobags.com/?post_type=product&amp;p=114</guid>
+    <description></description>
+    <content:encoded><![CDATA[Our Certified Compostable Carry Bags are a perfect solution for industries such as supermarkets, food delivery, hotels and grocery stores. Our Compostable Carry Bags offer fantastic mechanical strength for carrying all kinds of goods. There is no restriction on thickness on any kind of Compostable Product.]]></content:encoded>
+    <excerpt:encoded><![CDATA[Certified compostable carry bags with fantastic mechanical strength, for supermarkets, food delivery, hotels and grocery stores.]]></excerpt:encoded>
+    <wp:post_id>114</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-25 16:23:36]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 16:23:36]]></wp:post_date_gmt>
+    <wp:post_name><![CDATA[carry-bags]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[product]]></wp:post_type>
+    <category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+    <category domain="product_cat" nicename="carry-bags"><![CDATA[Shopping / Carry bags]]></category>
+    <wp:postmeta><wp:meta_key><![CDATA[_sku]]></wp:meta_key><wp:meta_value><![CDATA[GI-CB-001]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_regular_price]]></wp:meta_key><wp:meta_value><![CDATA[155]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_sale_price]]></wp:meta_key><wp:meta_value><![CDATA[120]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_price]]></wp:meta_key><wp:meta_value><![CDATA[120]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_mrp_price]]></wp:meta_key><wp:meta_value><![CDATA[155]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key><wp:meta_value><![CDATA[yes]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_stock]]></wp:meta_key><wp:meta_value><![CDATA[600]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_stock_status]]></wp:meta_key><wp:meta_value><![CDATA[instock]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_package_unit]]></wp:meta_key><wp:meta_value><![CDATA[kg]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_package_label]]></wp:meta_key><wp:meta_value><![CDATA[1 kg bulk bundle]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_max_order_qty]]></wp:meta_key><wp:meta_value><![CDATA[100]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_bulk_negotiable]]></wp:meta_key><wp:meta_value><![CDATA[yes]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_sizes_json]]></wp:meta_key><wp:meta_value><![CDATA[[{"id":"cb-10x12","sizeLabel":"10 × 12 in","packageOverride":"1 kg bundle","piecesPerUnit":240,"piecesByQuality":{"Nice quality":240,"Thick quality":180,"Mixed quality":150},"carryingCapacity":"1 kg","totalStockQty":60,"stockQty":60,"colorStocks":{"White":10,"Green":10,"Red":10,"Yellow":10,"Black":10,"Transparent":10}},{"id":"cb-10x13","sizeLabel":"10 × 13 in","packageOverride":"1 kg bundle","piecesPerUnit":220,"piecesByQuality":{"Nice quality":220,"Thick quality":170,"Mixed quality":null},"carryingCapacity":"1.5 kg","totalStockQty":60,"stockQty":60,"colorStocks":{"White":10,"Green":10,"Red":10,"Yellow":10,"Black":10,"Transparent":10}},{"id":"cb-10x14","sizeLabel":"10 × 14 in","packageOverride":"1 kg bundle","piecesPerUnit":190,"piecesByQuality":{"Nice quality":190,"Thick quality":160,"Mixed quality":140},"carryingCapacity":"2 kg","totalStockQty":60,"stockQty":60,"colorStocks":{"White":10,"Green":10,"Red":10,"Yellow":10,"Black":10,"Transparent":10}},{"id":"cb-11x14","sizeLabel":"11 × 14 in","packageOverride":"1 kg bundle","piecesPerUnit":170,"piecesByQuality":{"Nice quality":170,"Thick quality":130,"Mixed quality":120},"carryingCapacity":"2.5 kg","totalStockQty":60,"stockQty":60,"colorStocks":{"White":10,"Green":10,"Red":10,"Yellow":10,"Black":10,"Transparent":10}},{"id":"cb-12x14","sizeLabel":"12 × 14 in","packageOverride":"1 kg bundle","piecesPerUnit":150,"piecesByQuality":{"Nice quality":150,"Thick quality":120,"Mixed quality":95},"carryingCapacity":"3 kg","totalStockQty":60,"stockQty":60,"colorStocks":{"White":10,"Green":10,"Red":10,"Yellow":10,"Black":10,"Transparent":10}},{"id":"cb-13x16","sizeLabel":"13 × 16 in","packageOverride":"1 kg bundle","piecesPerUnit":120,"piecesByQuality":{"Nice quality":120,"Thick quality":90,"Mixed quality":80},"carryingCapacity":"4 kg","totalStockQty":60,"stockQty":60,"colorStocks":{"White":10,"Green":10,"Red":10,"Yellow":10,"Black":10,"Transparent":10}},{"id":"cb-14x16","sizeLabel":"14 × 16 in","packageOverride":"1 kg bundle","piecesPerUnit":100,"piecesByQuality":{"Nice quality":100,"Thick quality":70,"Mixed quality":70},"carryingCapacity":"5 kg","totalStockQty":60,"stockQty":60,"colorStocks":{"White":10,"Green":10,"Red":10,"Yellow":10,"Black":10,"Transparent":10}},{"id":"cb-16x20","sizeLabel":"16 × 20 in","packageOverride":"1 kg bundle","piecesPerUnit":70,"piecesByQuality":{"Nice quality":70,"Thick quality":45,"Mixed quality":40},"carryingCapacity":"7 kg","totalStockQty":60,"stockQty":60,"colorStocks":{"White":10,"Green":10,"Red":10,"Yellow":10,"Black":10,"Transparent":10}},{"id":"cb-17x20","sizeLabel":"17 × 20 in","packageOverride":"1 kg bundle","piecesPerUnit":60,"piecesByQuality":{"Nice quality":60,"Thick quality":40,"Mixed quality":35},"carryingCapacity":"8 kg","totalStockQty":60,"stockQty":60,"colorStocks":{"White":10,"Green":10,"Red":10,"Yellow":10,"Black":10,"Transparent":10}},{"id":"cb-21x25","sizeLabel":"21 × 25 in","packageOverride":"1 kg bundle","piecesPerUnit":47,"piecesByQuality":{"Nice quality":47,"Thick quality":35,"Mixed quality":30},"carryingCapacity":"10 kg","totalStockQty":60,"stockQty":60,"colorStocks":{"White":10,"Green":10,"Red":10,"Yellow":10,"Black":10,"Transparent":10}}]]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_colors_json]]></wp:meta_key><wp:meta_value><![CDATA[[{"id":"white","name":"White","hex":"#f5f5f5"},{"id":"green","name":"Green","hex":"#2e7d32"},{"id":"red","name":"Red","hex":"#e53935"},{"id":"yellow","name":"Yellow","hex":"#fdd835"},{"id":"black","name":"Black","hex":"#222222"},{"id":"transparent","name":"Transparent","hex":"#cfe3ea"}]]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_qualities_json]]></wp:meta_key><wp:meta_value><![CDATA[[{"id":"nice","name":"Nice quality","pricePerUnit":190,"mrpPerUnit":240},{"id":"thick","name":"Thick quality","pricePerUnit":170,"mrpPerUnit":215},{"id":"mixed","name":"Mixed quality","pricePerUnit":120,"mrpPerUnit":155}]]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_highlights]]></wp:meta_key><wp:meta_value><![CDATA[Non-hazardous
+Eco-friendly
+CPCB certified compostable (ISO 17088)
+Decomposes in soil/landfill within 6 months
+Customisable
+Fantastic weight-carrying capacity
+No restriction on thickness]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_storage_note]]></wp:meta_key><wp:meta_value><![CDATA[Store in a dry and dark place.]]></wp:meta_value></wp:postmeta>
+  </item>
+
+  <item>
+    <title><![CDATA[Sambar Cover / Pouch Cover]]></title>
+    <link>https://greenindiabiobags.com/product/sambar-cover/</link>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://greenindiabiobags.com/?post_type=product&amp;p=115</guid>
+    <description></description>
+    <content:encoded><![CDATA[Compostable sambar covers and pouch covers for food packing and takeaway use. Select from the available standard sizes and pack quantities below.]]></content:encoded>
+    <excerpt:encoded><![CDATA[Compostable sambar cover and pouch cover for food packing and takeaway use.]]></excerpt:encoded>
+    <wp:post_id>115</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-25 16:23:36]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 16:23:36]]></wp:post_date_gmt>
+    <wp:post_name><![CDATA[sambar-cover]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>1</wp:menu_order>
+    <wp:post_type><![CDATA[product]]></wp:post_type>
+    <category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+    <category domain="product_cat" nicename="sambar-cover"><![CDATA[Sambar Cover / Pouch Cover]]></category>
+    <wp:postmeta><wp:meta_key><![CDATA[_sku]]></wp:meta_key><wp:meta_value><![CDATA[GI-SC-103]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_regular_price]]></wp:meta_key><wp:meta_value><![CDATA[250]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_sale_price]]></wp:meta_key><wp:meta_value><![CDATA[200]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_price]]></wp:meta_key><wp:meta_value><![CDATA[200]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_mrp_price]]></wp:meta_key><wp:meta_value><![CDATA[250]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key><wp:meta_value><![CDATA[yes]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_stock]]></wp:meta_key><wp:meta_value><![CDATA[320]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_stock_status]]></wp:meta_key><wp:meta_value><![CDATA[instock]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_package_unit]]></wp:meta_key><wp:meta_value><![CDATA[kg]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_package_label]]></wp:meta_key><wp:meta_value><![CDATA[1 kg food-grade bundle]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_max_order_qty]]></wp:meta_key><wp:meta_value><![CDATA[100]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_bulk_negotiable]]></wp:meta_key><wp:meta_value><![CDATA[yes]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_sizes_json]]></wp:meta_key><wp:meta_value><![CDATA[[{"id":"sc-35x5","sizeLabel":"3½ × 5 in","packageOverride":"1 kg bundle","piecesPerUnit":500,"carryingCapacity":"0.25 kg","mrpOverride":280,"priceOverride":230,"totalStockQty":80,"stockQty":80,"colorStocks":{"White":80}},{"id":"sc-4x6","sizeLabel":"4 × 6 in","packageOverride":"1 kg bundle","piecesPerUnit":400,"carryingCapacity":"0.50 kg","mrpOverride":275,"priceOverride":225,"totalStockQty":60,"stockQty":60,"colorStocks":{"White":60}},{"id":"sc-5x7","sizeLabel":"5 × 7 in","packageOverride":"1 kg bundle","piecesPerUnit":300,"carryingCapacity":"0.75 kg","mrpOverride":270,"priceOverride":220,"totalStockQty":60,"stockQty":60,"colorStocks":{"White":60}},{"id":"sc-6x9","sizeLabel":"6 × 9 in","packageOverride":"1 kg bundle","piecesPerUnit":200,"carryingCapacity":"1 kg","mrpOverride":260,"priceOverride":210,"totalStockQty":60,"stockQty":60,"colorStocks":{"White":60}},{"id":"sc-8x10","sizeLabel":"8 × 10 in","packageOverride":"1 kg bundle","piecesPerUnit":100,"carryingCapacity":"1.5 kg","mrpOverride":250,"priceOverride":200,"totalStockQty":60,"stockQty":60,"colorStocks":{"White":60}}]]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_colors_json]]></wp:meta_key><wp:meta_value><![CDATA[[{"id":"white","name":"White","hex":"#f5f5f5"}]]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_qualities_json]]></wp:meta_key><wp:meta_value><![CDATA[[]]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_highlights]]></wp:meta_key><wp:meta_value><![CDATA[Compostable sambar cover / pouch cover
+Five standard sizes
+Suitable for food packing and takeaway use
+Custom requirements can be discussed]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_storage_note]]></wp:meta_key><wp:meta_value><![CDATA[Store in a clean, dry place.]]></wp:meta_value></wp:postmeta>
+  </item>
+
+  <item>
+    <title><![CDATA[Compostable Grocery Bag]]></title>
+    <link>https://greenindiabiobags.com/product/grocery-bags/</link>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://greenindiabiobags.com/?post_type=product&amp;p=116</guid>
+    <description></description>
+    <content:encoded><![CDATA[Our Certified Compostable Grocery Bags are a perfect solution for industries such as supermarkets, food delivery, grocery/kirana stores and organic food stores. We also make Grocery Bags on roll with a core inside.]]></content:encoded>
+    <excerpt:encoded><![CDATA[Certified compostable grocery bags.]]></excerpt:encoded>
+    <wp:post_id>116</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-25 16:23:36]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 16:23:36]]></wp:post_date_gmt>
+    <wp:post_name><![CDATA[grocery-bags]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>2</wp:menu_order>
+    <wp:post_type><![CDATA[product]]></wp:post_type>
+    <category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+    <category domain="product_cat" nicename="grocery-bags"><![CDATA[Grocery Bags]]></category>
+    <wp:postmeta><wp:meta_key><![CDATA[_sku]]></wp:meta_key><wp:meta_value><![CDATA[GI-GB-002]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_regular_price]]></wp:meta_key><wp:meta_value><![CDATA[230]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_sale_price]]></wp:meta_key><wp:meta_value><![CDATA[185]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_price]]></wp:meta_key><wp:meta_value><![CDATA[185]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_mrp_price]]></wp:meta_key><wp:meta_value><![CDATA[230]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key><wp:meta_value><![CDATA[yes]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_stock]]></wp:meta_key><wp:meta_value><![CDATA[510]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_stock_status]]></wp:meta_key><wp:meta_value><![CDATA[instock]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_package_unit]]></wp:meta_key><wp:meta_value><![CDATA[kg]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_package_label]]></wp:meta_key><wp:meta_value><![CDATA[1 kg / roll bundle]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_max_order_qty]]></wp:meta_key><wp:meta_value><![CDATA[100]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_bulk_negotiable]]></wp:meta_key><wp:meta_value><![CDATA[yes]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_sizes_json]]></wp:meta_key><wp:meta_value><![CDATA[[{"id":"gb-6x8","sizeLabel":"6 × 8 in","packageOverride":"1 kg / roll","piecesPerUnit":500,"carryingCapacity":"0.250 kg","mrpOverride":270,"priceOverride":220,"totalStockQty":90,"stockQty":90,"colorStocks":{"White":15,"Green":15,"Red":15,"Yellow":15,"Black":15,"Transparent":15}},{"id":"gb-6x9","sizeLabel":"6 × 9 in","packageOverride":"1 kg / roll","piecesPerUnit":360,"carryingCapacity":"0.500 kg","mrpOverride":260,"priceOverride":210,"totalStockQty":90,"stockQty":90,"colorStocks":{"White":15,"Green":15,"Red":15,"Yellow":15,"Black":15,"Transparent":15}},{"id":"gb-9x12","sizeLabel":"9 × 12 in","packageOverride":"1 kg / roll","piecesPerUnit":200,"carryingCapacity":"1 kg","mrpOverride":250,"priceOverride":200,"totalStockQty":90,"stockQty":90,"colorStocks":{"White":15,"Green":15,"Red":15,"Yellow":15,"Black":15,"Transparent":15}},{"id":"gb-10x14","sizeLabel":"10 × 14 in","packageOverride":"1 kg / roll","piecesPerUnit":130,"carryingCapacity":"2 kg","mrpOverride":245,"priceOverride":195,"totalStockQty":90,"stockQty":90,"colorStocks":{"White":15,"Green":15,"Red":15,"Yellow":15,"Black":15,"Transparent":15}},{"id":"gb-10x16","sizeLabel":"10 × 16 in","packageOverride":"1 kg / roll","piecesPerUnit":110,"carryingCapacity":"3 kg","mrpOverride":240,"priceOverride":190,"totalStockQty":75,"stockQty":75,"colorStocks":{"White":12,"Green":12,"Red":12,"Yellow":12,"Black":12,"Transparent":12}},{"id":"gb-14x20","sizeLabel":"14 × 20 in","packageOverride":"1 kg / roll","piecesPerUnit":70,"carryingCapacity":"5 kg","mrpOverride":230,"priceOverride":185,"totalStockQty":75,"stockQty":75,"colorStocks":{"White":13,"Green":13,"Red":13,"Yellow":13,"Black":13,"Transparent":13}}]]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_colors_json]]></wp:meta_key><wp:meta_value><![CDATA[[{"id":"white","name":"White","hex":"#f5f5f5"},{"id":"green","name":"Green","hex":"#2e7d32"},{"id":"red","name":"Red","hex":"#e53935"},{"id":"yellow","name":"Yellow","hex":"#fdd835"},{"id":"black","name":"Black","hex":"#222222"},{"id":"transparent","name":"Transparent","hex":"#cfe3ea"}]]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_qualities_json]]></wp:meta_key><wp:meta_value><![CDATA[[]]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_highlights]]></wp:meta_key><wp:meta_value><![CDATA[Non-hazardous
+Eco-friendly
+CPCB certified compostable (ISO 17088)
+Decomposes in soil/landfill within 6 months
+Customisable
+Fantastic weight-carrying capacity
+No restriction on thickness]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_storage_note]]></wp:meta_key><wp:meta_value><![CDATA[Store in a dry and dark place.]]></wp:meta_value></wp:postmeta>
+  </item>
+
+  <item>
+    <title><![CDATA[Compostable Transparent Packaging Bag]]></title>
+    <link>https://greenindiabiobags.com/product/transparent-bags/</link>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://greenindiabiobags.com/?post_type=product&amp;p=117</guid>
+    <description></description>
+    <content:encoded><![CDATA[Our Certified Compostable Transparent Packing Bags are a perfect solution for industries such as garment packaging, textile, magazine covers and food packaging. They offer unparalleled transparency and are a great alternative to HM and BOPP.]]></content:encoded>
+    <excerpt:encoded><![CDATA[Certified compostable transparent packaging bags.]]></excerpt:encoded>
+    <wp:post_id>117</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-25 16:23:36]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 16:23:36]]></wp:post_date_gmt>
+    <wp:post_name><![CDATA[transparent-bags]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>3</wp:menu_order>
+    <wp:post_type><![CDATA[product]]></wp:post_type>
+    <category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+    <category domain="product_cat" nicename="transparent-bags"><![CDATA[Transparent Packaging Bags]]></category>
+    <wp:postmeta><wp:meta_key><![CDATA[_sku]]></wp:meta_key><wp:meta_value><![CDATA[GI-TB-003]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_regular_price]]></wp:meta_key><wp:meta_value><![CDATA[340]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_sale_price]]></wp:meta_key><wp:meta_value><![CDATA[280]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_price]]></wp:meta_key><wp:meta_value><![CDATA[280]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_mrp_price]]></wp:meta_key><wp:meta_value><![CDATA[340]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key><wp:meta_value><![CDATA[yes]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_stock]]></wp:meta_key><wp:meta_value><![CDATA[260]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_stock_status]]></wp:meta_key><wp:meta_value><![CDATA[instock]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_package_unit]]></wp:meta_key><wp:meta_value><![CDATA[kg]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_package_label]]></wp:meta_key><wp:meta_value><![CDATA[1 kg crystal-clear pack]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_max_order_qty]]></wp:meta_key><wp:meta_value><![CDATA[100]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_bulk_negotiable]]></wp:meta_key><wp:meta_value><![CDATA[yes]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_sizes_json]]></wp:meta_key><wp:meta_value><![CDATA[[{"id":"tb-7x11","sizeLabel":"7 × 11 in","packageOverride":"1 kg pack","piecesPerUnit":415,"carryingCapacity":"1 kg","thicknessMicrons":"20","mrpOverride":380,"priceOverride":320,"totalStockQty":60,"stockQty":60,"colorStocks":{"Transparent":60}},{"id":"tb-8x13","sizeLabel":"8 × 13 in","packageOverride":"1 kg pack","piecesPerUnit":310,"carryingCapacity":"2 kg","thicknessMicrons":"20","mrpOverride":370,"priceOverride":310,"totalStockQty":50,"stockQty":50,"colorStocks":{"Transparent":50}},{"id":"tb-10x14","sizeLabel":"10 × 14 in","packageOverride":"1 kg pack","piecesPerUnit":225,"carryingCapacity":"3 kg","thicknessMicrons":"20","mrpOverride":360,"priceOverride":300,"totalStockQty":50,"stockQty":50,"colorStocks":{"Transparent":50}},{"id":"tb-12x16","sizeLabel":"12 × 16 in","packageOverride":"1 kg pack","piecesPerUnit":135,"carryingCapacity":"4-5 kg","thicknessMicrons":"25","mrpOverride":350,"priceOverride":290,"totalStockQty":50,"stockQty":50,"colorStocks":{"Transparent":50}},{"id":"tb-14x18","sizeLabel":"14 × 18 in","packageOverride":"1 kg pack","piecesPerUnit":100,"carryingCapacity":"5-6 kg","thicknessMicrons":"25","mrpOverride":340,"priceOverride":280,"totalStockQty":50,"stockQty":50,"colorStocks":{"Transparent":50}}]]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_colors_json]]></wp:meta_key><wp:meta_value><![CDATA[[{"id":"transparent","name":"Transparent","hex":"#cfe3ea"}]]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_qualities_json]]></wp:meta_key><wp:meta_value><![CDATA[[]]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_highlights]]></wp:meta_key><wp:meta_value><![CDATA[Non-hazardous
+Eco-friendly
+CPCB certified compostable (ISO 17088)
+Decomposes in soil/landfill within 6 months
+Customisable
+No restriction on thickness]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_storage_note]]></wp:meta_key><wp:meta_value><![CDATA[Store in a dry and dark place.]]></wp:meta_value></wp:postmeta>
+  </item>
+
+  <item>
+    <title><![CDATA[Compostable Garbage Bag]]></title>
+    <link>https://greenindiabiobags.com/product/garbage-bags/</link>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://greenindiabiobags.com/?post_type=product&amp;p=118</guid>
+    <description></description>
+    <content:encoded><![CDATA[Our Certified Compostable Garbage Bags are a perfect solution for all your waste disposal needs, whether it’s household waste, industrial waste, hotel waste or office waste. Reliable for both dry and wet waste.]]></content:encoded>
+    <excerpt:encoded><![CDATA[Certified compostable garbage bags in sizes from kitchen bins to large waste containers.]]></excerpt:encoded>
+    <wp:post_id>118</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-25 16:23:36]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 16:23:36]]></wp:post_date_gmt>
+    <wp:post_name><![CDATA[garbage-bags]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>4</wp:menu_order>
+    <wp:post_type><![CDATA[product]]></wp:post_type>
+    <category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+    <category domain="product_cat" nicename="garbage-bags"><![CDATA[Garbage Bags]]></category>
+    <wp:postmeta><wp:meta_key><![CDATA[_sku]]></wp:meta_key><wp:meta_value><![CDATA[GI-GBA-004]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_regular_price]]></wp:meta_key><wp:meta_value><![CDATA[130]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_sale_price]]></wp:meta_key><wp:meta_value><![CDATA[100]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_price]]></wp:meta_key><wp:meta_value><![CDATA[100]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_mrp_price]]></wp:meta_key><wp:meta_value><![CDATA[130]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key><wp:meta_value><![CDATA[yes]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_stock]]></wp:meta_key><wp:meta_value><![CDATA[600]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_stock_status]]></wp:meta_key><wp:meta_value><![CDATA[instock]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_package_unit]]></wp:meta_key><wp:meta_value><![CDATA[pack]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_package_label]]></wp:meta_key><wp:meta_value><![CDATA[1 roll pack (10–15 pcs)]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_max_order_qty]]></wp:meta_key><wp:meta_value><![CDATA[100]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_bulk_negotiable]]></wp:meta_key><wp:meta_value><![CDATA[yes]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_sizes_json]]></wp:meta_key><wp:meta_value><![CDATA[[{"id":"gba-17x19","sizeLabel":"17 × 19 in","typeLabel":"Small","packageOverride":"15 pcs roll","piecesPerUnit":15,"carryingCapacity":"3 kg","mrpOverride":130,"priceOverride":100,"totalStockQty":210,"stockQty":210,"colorStocks":{"White":35,"Green":35,"Red":35,"Yellow":35,"Black":35,"Transparent":35}},{"id":"gba-19x21","sizeLabel":"19 × 21 in","typeLabel":"Medium","packageOverride":"15 pcs roll","piecesPerUnit":15,"carryingCapacity":"5 kg","mrpOverride":150,"priceOverride":120,"totalStockQty":210,"stockQty":210,"colorStocks":{"White":35,"Green":35,"Red":35,"Yellow":35,"Black":35,"Transparent":35}},{"id":"gba-29x39","sizeLabel":"29 × 39 in","typeLabel":"Extra Large","packageOverride":"10 pcs roll","piecesPerUnit":10,"carryingCapacity":"12 kg","mrpOverride":195,"priceOverride":155,"totalStockQty":180,"stockQty":180,"colorStocks":{"White":30,"Green":30,"Red":30,"Yellow":30,"Black":30,"Transparent":30}}]]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_colors_json]]></wp:meta_key><wp:meta_value><![CDATA[[{"id":"white","name":"White","hex":"#f5f5f5"},{"id":"green","name":"Green","hex":"#2e7d32"},{"id":"red","name":"Red","hex":"#e53935"},{"id":"yellow","name":"Yellow","hex":"#fdd835"},{"id":"black","name":"Black","hex":"#222222"},{"id":"transparent","name":"Transparent","hex":"#cfe3ea"}]]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_qualities_json]]></wp:meta_key><wp:meta_value><![CDATA[[]]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_highlights]]></wp:meta_key><wp:meta_value><![CDATA[Non-hazardous
+Eco-friendly
+CPCB certified compostable (ISO 17088)
+Decomposes in soil/landfill within 6 months
+Customisable
+Counts as a CSR activity]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_storage_note]]></wp:meta_key><wp:meta_value><![CDATA[Store in a dry and dark place.]]></wp:meta_value></wp:postmeta>
+  </item>
+
+  <item>
+    <title><![CDATA[Compostable Textile Bag / D-Cut Bag]]></title>
+    <link>https://greenindiabiobags.com/product/d-cut/</link>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://greenindiabiobags.com/?post_type=product&amp;p=119</guid>
+    <description></description>
+    <content:encoded><![CDATA[Our compostable D-cut bags are designed with a convenient die-cut handle for easy carrying. Suitable for retail, shopping and product packaging, with space for custom branding and printing.]]></content:encoded>
+    <excerpt:encoded><![CDATA[Compostable D-cut handle bags for retail, shopping and everyday packaging.]]></excerpt:encoded>
+    <wp:post_id>119</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-25 16:23:36]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 16:23:36]]></wp:post_date_gmt>
+    <wp:post_name><![CDATA[d-cut]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>5</wp:menu_order>
+    <wp:post_type><![CDATA[product]]></wp:post_type>
+    <category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+    <category domain="product_cat" nicename="d-cut"><![CDATA[Textile Bag / D-Cut Bag]]></category>
+    <wp:postmeta><wp:meta_key><![CDATA[_sku]]></wp:meta_key><wp:meta_value><![CDATA[GI-DC-105]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_regular_price]]></wp:meta_key><wp:meta_value><![CDATA[220]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_sale_price]]></wp:meta_key><wp:meta_value><![CDATA[175]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_price]]></wp:meta_key><wp:meta_value><![CDATA[175]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_mrp_price]]></wp:meta_key><wp:meta_value><![CDATA[220]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key><wp:meta_value><![CDATA[yes]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_stock]]></wp:meta_key><wp:meta_value><![CDATA[380]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_stock_status]]></wp:meta_key><wp:meta_value><![CDATA[instock]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_package_unit]]></wp:meta_key><wp:meta_value><![CDATA[kg]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_package_label]]></wp:meta_key><wp:meta_value><![CDATA[1 kg retail bundle]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_max_order_qty]]></wp:meta_key><wp:meta_value><![CDATA[100]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_bulk_negotiable]]></wp:meta_key><wp:meta_value><![CDATA[yes]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_sizes_json]]></wp:meta_key><wp:meta_value><![CDATA[[{"id":"dc-8x11","sizeLabel":"8 × 11 in","packageOverride":"1 kg bundle","piecesPerUnit":210,"carryingCapacity":"1 kg","mrpOverride":260,"priceOverride":210,"totalStockQty":96,"stockQty":96,"colorStocks":{"White":16,"Green":16,"Red":16,"Yellow":16,"Black":16,"Transparent":16}},{"id":"dc-10x15","sizeLabel":"10 × 15 in","packageOverride":"1 kg bundle","piecesPerUnit":120,"carryingCapacity":"2.5 kg","mrpOverride":250,"priceOverride":200,"totalStockQty":96,"stockQty":96,"colorStocks":{"White":16,"Green":16,"Red":16,"Yellow":16,"Black":16,"Transparent":16}},{"id":"dc-12x18","sizeLabel":"12 × 18 in","packageOverride":"1 kg bundle","piecesPerUnit":70,"carryingCapacity":"4 kg","mrpOverride":235,"priceOverride":190,"totalStockQty":96,"stockQty":96,"colorStocks":{"White":16,"Green":16,"Red":16,"Yellow":16,"Black":16,"Transparent":16}},{"id":"dc-18x20","sizeLabel":"18 × 20 in","packageOverride":"1 kg bundle","piecesPerUnit":60,"carryingCapacity":"6 kg","mrpOverride":220,"priceOverride":175,"totalStockQty":92,"stockQty":92,"colorStocks":{"White":15,"Green":15,"Red":15,"Yellow":15,"Black":15,"Transparent":15}}]]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_colors_json]]></wp:meta_key><wp:meta_value><![CDATA[[{"id":"white","name":"White","hex":"#f5f5f5"},{"id":"green","name":"Green","hex":"#2e7d32"},{"id":"red","name":"Red","hex":"#e53935"},{"id":"yellow","name":"Yellow","hex":"#fdd835"},{"id":"black","name":"Black","hex":"#222222"},{"id":"transparent","name":"Transparent","hex":"#cfe3ea"}]]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_qualities_json]]></wp:meta_key><wp:meta_value><![CDATA[[]]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_highlights]]></wp:meta_key><wp:meta_value><![CDATA[Convenient die-cut handle
+Four standard sizes
+Available in White, Green, Red, Yellow, Black and Transparent
+Custom printing available]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_storage_note]]></wp:meta_key><wp:meta_value><![CDATA[Store in a dry and dark place.]]></wp:meta_value></wp:postmeta>
+  </item>
+
+  <item>
+    <title><![CDATA[Compostable Flat Cover]]></title>
+    <link>https://greenindiabiobags.com/product/flat-cover/</link>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://greenindiabiobags.com/?post_type=product&amp;p=120</guid>
+    <description></description>
+    <content:encoded><![CDATA[Our compostable flat covers provide a simple, practical covering solution for food, retail and general product packaging. Custom branding and bulk requirements can be discussed with our team.]]></content:encoded>
+    <excerpt:encoded><![CDATA[Compostable flat covers for food, retail and everyday product packaging.]]></excerpt:encoded>
+    <wp:post_id>120</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-25 16:23:36]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 16:23:36]]></wp:post_date_gmt>
+    <wp:post_name><![CDATA[flat-cover]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>6</wp:menu_order>
+    <wp:post_type><![CDATA[product]]></wp:post_type>
+    <category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+    <category domain="product_cat" nicename="flat-cover"><![CDATA[Flat Cover]]></category>
+    <wp:postmeta><wp:meta_key><![CDATA[_sku]]></wp:meta_key><wp:meta_value><![CDATA[GI-FC-106]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_regular_price]]></wp:meta_key><wp:meta_value><![CDATA[230]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_sale_price]]></wp:meta_key><wp:meta_value><![CDATA[185]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_price]]></wp:meta_key><wp:meta_value><![CDATA[185]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_mrp_price]]></wp:meta_key><wp:meta_value><![CDATA[230]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key><wp:meta_value><![CDATA[yes]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_stock]]></wp:meta_key><wp:meta_value><![CDATA[290]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_stock_status]]></wp:meta_key><wp:meta_value><![CDATA[instock]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_package_unit]]></wp:meta_key><wp:meta_value><![CDATA[kg]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_package_label]]></wp:meta_key><wp:meta_value><![CDATA[1 kg flat-pack bundle]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_max_order_qty]]></wp:meta_key><wp:meta_value><![CDATA[100]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_bulk_negotiable]]></wp:meta_key><wp:meta_value><![CDATA[yes]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_sizes_json]]></wp:meta_key><wp:meta_value><![CDATA[[{"id":"fc-10x10","sizeLabel":"10 × 10 in","packageOverride":"1 kg bundle","piecesPerUnit":300,"carryingCapacity":"1 kg","mrpOverride":260,"priceOverride":210,"totalStockQty":100,"stockQty":100,"colorStocks":{"White":50,"Transparent":50}},{"id":"fc-12x12","sizeLabel":"12 × 12 in","packageOverride":"1 kg bundle","piecesPerUnit":200,"carryingCapacity":"2 kg","mrpOverride":250,"priceOverride":200,"totalStockQty":100,"stockQty":100,"colorStocks":{"White":50,"Transparent":50}},{"id":"fc-14x14","sizeLabel":"14 × 14 in","packageOverride":"1 kg bundle","piecesPerUnit":150,"carryingCapacity":"3 kg","mrpOverride":230,"priceOverride":185,"totalStockQty":90,"stockQty":90,"colorStocks":{"White":45,"Transparent":45}}]]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_colors_json]]></wp:meta_key><wp:meta_value><![CDATA[[{"id":"white","name":"White","hex":"#ffffff"},{"id":"transparent","name":"Transparent","hex":"#d9e6e8"}]]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_qualities_json]]></wp:meta_key><wp:meta_value><![CDATA[[]]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_highlights]]></wp:meta_key><wp:meta_value><![CDATA[Flat cover format
+Three standard sizes
+Available in White and Transparent
+Custom branding available]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key><![CDATA[_gi_storage_note]]></wp:meta_key><wp:meta_value><![CDATA[Store in a dry and dark place.]]></wp:meta_value></wp:postmeta>
+  </item>
+</channel>
+</rss>

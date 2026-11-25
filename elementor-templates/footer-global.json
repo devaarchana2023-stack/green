@@ -1,0 +1,386 @@
+{
+  "version": "0.4",
+  "title": "Green India - Global Footer",
+  "type": "footer",
+  "content": [
+    {
+      "id": "c4fc",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "flex_direction": "column",
+        "content_width": "full",
+        "flex_gap": {
+          "unit": "px",
+          "size": 18,
+          "column": "18",
+          "row": "18"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "20",
+          "bottom": "12",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#123d22"
+      },
+      "elements": [
+        {
+          "id": "c4fb",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "flex_direction": "row",
+            "content_width": "boxed",
+            "flex_gap": {
+              "unit": "px",
+              "size": 26,
+              "column": "26",
+              "row": "26"
+            },
+            "padding": {
+              "unit": "px",
+              "top": "44",
+              "right": "20",
+              "bottom": "28",
+              "left": "20",
+              "isLinked": false
+            },
+            "boxed_width": {
+              "unit": "px",
+              "size": 1120
+            }
+          },
+          "elements": [
+            {
+              "id": "c4e7",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 8,
+                  "column": "8",
+                  "row": "8"
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "20",
+                  "bottom": "24",
+                  "left": "20",
+                  "isLinked": false
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 40
+                }
+              },
+              "elements": [
+                {
+                  "id": "h4e5",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Green India",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#ffffff",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Fraunces",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 24
+                    },
+                    "typography_font_weight": "700",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.15
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "t4e6",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>From Nature, Back to Nature. Certified compostable products by CPCB.</p>",
+                    "align": "left",
+                    "text_color": "#cfe3d1",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Plus Jakarta Sans",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 14
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.6
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "c4f3",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 8,
+                  "column": "8",
+                  "row": "8"
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "20",
+                  "bottom": "24",
+                  "left": "20",
+                  "isLinked": false
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 30
+                }
+              },
+              "elements": [
+                {
+                  "id": "h4e8",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Site Map",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#ffffff",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Fraunces",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16
+                    },
+                    "typography_font_weight": "700",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.15
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "il4e9",
+                  "elType": "widget",
+                  "widgetType": "icon-list",
+                  "settings": {
+                    "icon_list": [
+                      {
+                        "_id": "ili4ea",
+                        "text": "Shopping / Carry Bags",
+                        "selected_icon": {
+                          "value": "fas fa-angle-right",
+                          "library": "fa-solid"
+                        }
+                      },
+                      {
+                        "_id": "ili4eb",
+                        "text": "Sambar / Pouch Cover",
+                        "selected_icon": {
+                          "value": "fas fa-angle-right",
+                          "library": "fa-solid"
+                        }
+                      },
+                      {
+                        "_id": "ili4ec",
+                        "text": "Grocery Bags",
+                        "selected_icon": {
+                          "value": "fas fa-angle-right",
+                          "library": "fa-solid"
+                        }
+                      },
+                      {
+                        "_id": "ili4ed",
+                        "text": "Transparent Packaging Bags",
+                        "selected_icon": {
+                          "value": "fas fa-angle-right",
+                          "library": "fa-solid"
+                        }
+                      },
+                      {
+                        "_id": "ili4ee",
+                        "text": "Garbage Bags",
+                        "selected_icon": {
+                          "value": "fas fa-angle-right",
+                          "library": "fa-solid"
+                        }
+                      },
+                      {
+                        "_id": "ili4ef",
+                        "text": "Textile Bag / D-Cut Bag",
+                        "selected_icon": {
+                          "value": "fas fa-angle-right",
+                          "library": "fa-solid"
+                        }
+                      },
+                      {
+                        "_id": "ili4f0",
+                        "text": "Flat Cover",
+                        "selected_icon": {
+                          "value": "fas fa-angle-right",
+                          "library": "fa-solid"
+                        }
+                      },
+                      {
+                        "_id": "ili4f1",
+                        "text": "Shop",
+                        "selected_icon": {
+                          "value": "fas fa-angle-right",
+                          "library": "fa-solid"
+                        }
+                      },
+                      {
+                        "_id": "ili4f2",
+                        "text": "Certification",
+                        "selected_icon": {
+                          "value": "fas fa-angle-right",
+                          "library": "fa-solid"
+                        }
+                      }
+                    ],
+                    "icon_color": "#a5d66b",
+                    "text_color": "#cfe3d1",
+                    "space_between": {
+                      "unit": "px",
+                      "size": 10
+                    },
+                    "divider": "yes",
+                    "divider_style": "dashed",
+                    "divider_color": "#dbe5d2"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "c4fa",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 8,
+                  "column": "8",
+                  "row": "8"
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "20",
+                  "bottom": "24",
+                  "left": "20",
+                  "isLinked": false
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 30
+                }
+              },
+              "elements": [
+                {
+                  "id": "h4f4",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Contact",
+                    "header_size": "h3",
+                    "align": "left",
+                    "title_color": "#ffffff",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Fraunces",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16
+                    },
+                    "typography_font_weight": "700",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.15
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "il4f5",
+                  "elType": "widget",
+                  "widgetType": "icon-list",
+                  "settings": {
+                    "icon_list": [
+                      {
+                        "_id": "ili4f6",
+                        "text": "No.4, Sahjanand Ruber Industrial Estate, Bapinagar, Ahmedabad, Gujarat – 380024",
+                        "selected_icon": {
+                          "value": "fas fa-phone",
+                          "library": "fa-solid"
+                        }
+                      },
+                      {
+                        "_id": "ili4f7",
+                        "text": "+91 94894 65676",
+                        "selected_icon": {
+                          "value": "fas fa-phone",
+                          "library": "fa-solid"
+                        }
+                      },
+                      {
+                        "_id": "ili4f8",
+                        "text": "greenindiabiobags.it@gmail.com",
+                        "selected_icon": {
+                          "value": "fas fa-phone",
+                          "library": "fa-solid"
+                        }
+                      },
+                      {
+                        "_id": "ili4f9",
+                        "text": "WhatsApp us",
+                        "selected_icon": {
+                          "value": "fas fa-phone",
+                          "library": "fa-solid"
+                        }
+                      }
+                    ],
+                    "icon_color": "#a5d66b",
+                    "text_color": "#cfe3d1",
+                    "space_between": {
+                      "unit": "px",
+                      "size": 10
+                    },
+                    "divider": "yes",
+                    "divider_style": "dashed",
+                    "divider_color": "#dbe5d2"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "page_settings": {
+    "background_background": "classic",
+    "background_color": "#f6f8f1"
+  }
+}

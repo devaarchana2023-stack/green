@@ -1,0 +1,106 @@
+:root{--gi-bg:#f6f8f1;--gi-surf:#fff;--gi-tx:#17301f;--gi-mu:#5b6e60;--gi-pr:#2e7d32;--gi-pr2:#1b5e20;--gi-ac:#e8f3da;--gi-bd:#dbe5d2;--gi-hero:#123d22}
+/* Hero Slider matching greenindiabags.com */
+.gi-slider{position:relative;height:clamp(470px,76vh,640px);overflow:hidden;color:#fff;background:var(--gi-hero)}
+.gi-slide{position:absolute;inset:0;opacity:0;visibility:hidden;transition:opacity .9s,visibility .9s}
+.gi-slide.on{opacity:1;visibility:visible}
+.gi-slide svg.gi-bg{position:absolute;inset:0;width:100%;height:100%}
+.gi-slide:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,#0a2413d9 0,#0a241388 45%,transparent 80%)}
+.gi-slide .gi-tx{position:relative;z-index:2;height:100%;display:flex;flex-direction:column;justify-content:center;align-items:flex-start;max-width:1120px;margin:auto;padding:0 64px}
+.gi-tag{display:inline-block;background:#ffffff1f;border-radius:99px;padding:4px 14px;font-size:13px;margin-bottom:16px}
+.gi-slide h1{font:800 clamp(34px,6vw,62px)/1.12 Fraunces,Georgia,serif;color:#fff;max-width:700px;margin:0;text-shadow:0 2px 18px #0006}
+.gi-slide p{color:#e2f0e1;max-width:520px;margin:16px 0 24px;font-size:18px}
+.gi-hero-btns{display:flex;flex-wrap:wrap;gap:10px}
+.gi-hbtn{display:inline-flex;align-items:center;justify-content:center;background:#a5d66b;color:#123d22;border-radius:99px;padding:12px 24px;font-weight:700;text-decoration:none}
+.gi-hbtn.o{background:rgba(255,255,255,.08);color:#fff;border:1.5px solid rgba(255,255,255,.7)}
+.gi-arr{position:absolute;top:50%;z-index:5;transform:translateY(-50%);width:44px;height:44px;border-radius:50%;border:1px solid #ffffff66;background:#0a241366;color:#fff;font-size:26px;cursor:pointer}
+.gi-arr.l{left:12px}.gi-arr.r{right:12px}
+.gi-dots{position:absolute;bottom:48px;left:0;right:0;display:flex;justify-content:center;gap:8px;z-index:5}
+.gi-dots i{width:10px;height:10px;border-radius:99px;background:#ffffff66;cursor:pointer;transition:.3s}
+.gi-dots i.on{width:32px;background:#a5d66b}
+/* Shop Grid & Product Cards */
+.gi-filters{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin-bottom:24px}
+.gi-chip{border:1px solid var(--gi-bd);background:var(--gi-surf);color:var(--gi-tx);border-radius:99px;padding:7px 16px;font:500 14px "Plus Jakarta Sans",sans-serif;cursor:pointer;transition:.2s}
+.gi-chip.on{background:var(--gi-pr);color:#fff;border-color:var(--gi-pr)}
+.gi-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px}
+@media(max-width:960px){.gi-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:540px){.gi-grid{grid-template-columns:1fr}}
+.gi-card{background:var(--gi-surf);border:1px solid var(--gi-bd);border-radius:18px;overflow:hidden;display:flex;flex-direction:column;transition:.25s}
+.gi-card:hover{transform:translateY(-4px);box-shadow:0 8px 28px rgba(23,48,31,.1)}
+.gi-card .gi-pic{position:relative;height:190px;display:flex;align-items:center;justify-content:center;background:var(--gi-ac);overflow:hidden;padding:12px}
+.gi-card .gi-pic img{width:100%;height:100%;object-fit:contain}
+.gi-off-badge{display:inline-block;background:#fff1c9;color:#8a5200;border:1px solid #ffd776;border-radius:99px;padding:2px 9px;font:700 11px "Plus Jakarta Sans",sans-serif}
+.gi-card .gi-pic .gi-off-badge{position:absolute;top:10px;left:10px}
+.gi-mrp{color:var(--gi-mu);font-weight:500;font-size:.82em;margin:0 4px}
+.gi-variant-stock-line{display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:13px;font-weight:600;color:var(--gi-pr2);margin-bottom:14px}
+.gi-variant-stock-line.out{color:#b91c1c}
+.gi-variant-stock-line small{color:var(--gi-mu);font-weight:400}
+.gi-card-body{padding:16px;display:flex;flex-direction:column;gap:6px;flex:1}
+.gi-cat{color:var(--gi-pr);font-weight:600;text-transform:uppercase;font-size:11px;letter-spacing:.06em}
+.gi-card h3{font:700 18px/1.2 Fraunces,Georgia,serif;margin:0;color:var(--gi-tx)}
+.gi-card p{margin:0;color:var(--gi-mu);font-size:13.5px;flex:1}
+.gi-chips{display:flex;gap:6px;flex-wrap:wrap}
+.gi-chips span{background:var(--gi-ac);color:var(--gi-pr2);border-radius:99px;padding:2px 10px;font-size:12px;font-weight:600}
+.gi-stock-line{font-size:12px;color:var(--gi-pr2);font-weight:600}
+.gi-card-row{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-top:8px}
+.gi-price{font-weight:700;color:var(--gi-tx)}
+.gi-price span{font-weight:400;font-size:12px;color:var(--gi-mu)}
+.gi-add-btn{background:var(--gi-ac);color:var(--gi-pr2);border:1px solid var(--gi-bd);border-radius:99px;padding:7px 14px;font:600 13px "Plus Jakarta Sans",sans-serif;text-decoration:none}
+.gi-add-btn:hover{background:var(--gi-pr);color:#fff}
+/* Product Configurator */
+.gi-pdp{display:grid;grid-template-columns:1fr 1fr;gap:32px;align-items:start}
+@media(max-width:760px){.gi-pdp{grid-template-columns:1fr}}
+.gi-pdp-media{background:var(--gi-ac);border-radius:22px;padding:24px;display:grid;place-items:center}
+.gi-pdp-media img{max-width:100%;height:auto;object-fit:contain}
+.gi-pbig{font:800 32px Fraunces,Georgia,serif;color:var(--gi-pr2);margin:12px 0;display:flex;flex-wrap:wrap;align-items:baseline;gap:8px}
+.gi-pbig small{font:400 13px "Plus Jakarta Sans",sans-serif;color:var(--gi-mu);flex-basis:100%}
+.gi-ob{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px}
+.gi-opt{border:1.5px solid var(--gi-bd);background:#fff;border-radius:10px;padding:8px 12px;cursor:pointer;font-weight:600;display:inline-flex;align-items:center;gap:6px}
+.gi-opt.on{border-color:var(--gi-pr);background:var(--gi-ac)}
+.gi-opt i{width:11px;height:11px;border-radius:50%;display:inline-block;border:1px solid #0003}
+.gi-buy-bar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:18px 0}
+.gi-qty-box{display:inline-flex;align-items:center;gap:8px}
+.gi-qty-box button{width:34px;height:34px;border-radius:50%;border:1px solid var(--gi-bd);background:var(--gi-ac);cursor:pointer;font-weight:700}
+.gi-qty-box input{width:64px;text-align:center;border:1px solid var(--gi-bd);border-radius:8px;padding:6px}
+.gi-btn{border-radius:99px;padding:12px 22px;font-weight:700;cursor:pointer;border:0;text-decoration:none}
+.gi-btn-primary{background:var(--gi-pr);color:#fff}
+.gi-btn-primary:disabled{opacity:.45;cursor:not-allowed}
+.gi-btn-outline{background:var(--gi-ac);color:var(--gi-pr2);border:1px solid var(--gi-bd)}
+.gi-pieces-note{background:var(--gi-ac);border:1px solid var(--gi-bd);border-radius:12px;padding:12px 16px;font-size:14px;margin-bottom:18px}
+.gi-list{list-style:none;padding:0;margin:8px 0 0}
+.gi-list li{padding:7px 0 7px 26px;position:relative;border-bottom:1px dashed var(--gi-bd);font-size:14px}
+.gi-list li:before{content:"🌿";position:absolute;left:0}
+.gi-sizes-box{background:#fff;border:1px solid var(--gi-bd);border-radius:18px;padding:24px;margin-top:32px;overflow-x:auto}
+.gi-sizes-tbl{width:100%;border-collapse:collapse;font-size:14px}
+.gi-sizes-tbl th,.gi-sizes-tbl td{padding:10px 12px;border-bottom:1px solid var(--gi-bd);text-align:left}
+.gi-feat-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin-top:24px}
+.gi-feat-grid>div{background:#fff;border:1px solid var(--gi-bd);border-radius:16px;padding:18px}
+.gi-sw-row{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.gi-sw-row span{display:inline-flex;align-items:center;gap:6px;background:var(--gi-ac);border-radius:99px;padding:3px 10px;font-size:12px;font-weight:600;color:var(--gi-pr2)}
+.gi-sw-row i{width:10px;height:10px;border-radius:50%;border:1px solid #0004}
+.gi-rel-wrap{border-top:1px solid var(--gi-bd);margin-top:34px;padding-top:28px}
+.gi-rel-title{font:700 24px/1.2 Fraunces,Georgia,serif;text-align:center;margin:0 0 22px;color:var(--gi-tx)}
+.gi-rel-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+@media(max-width:960px){.gi-rel-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:540px){.gi-rel-grid{grid-template-columns:1fr}}
+/* Category Showcase & Gradients */
+.gi-cat-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px}
+@media(max-width:760px){.gi-cat-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.gi-cat-card{background:#fff;border:1px solid var(--gi-bd);border-radius:18px;padding:18px;text-align:center;text-decoration:none;color:var(--gi-tx)}
+.gi-cat-img{height:150px;border-radius:14px;display:grid;place-items:center;padding:10px;margin-bottom:12px}
+.gi-cat-img img{max-height:130px;width:auto;object-fit:contain}
+.gi-cat-grad-1{background:linear-gradient(135deg,#d9f5e3,#8fdcae)}
+.gi-cat-grad-2{background:linear-gradient(135deg,#fff1c9,#ffd776)}
+.gi-cat-grad-3{background:linear-gradient(135deg,#d6f3f0,#86d8d0)}
+.gi-cat-grad-4{background:linear-gradient(135deg,#dcecff,#9cc7fb)}
+.gi-cat-grad-5{background:linear-gradient(135deg,#e8f7c8,#bfe37a)}
+.gi-cat-grad-6{background:linear-gradient(135deg,#ffe3d6,#ffb58f)}
+.gi-cat-grad-7{background:linear-gradient(135deg,#ece1ff,#c5aef5)}
+/* Contact Form */
+.gi-contact-form input,.gi-contact-form textarea{width:100%;padding:11px 13px;border:1px solid var(--gi-bd);border-radius:10px;background:var(--gi-bg);color:var(--gi-tx);font:15px "Plus Jakarta Sans",sans-serif;margin-bottom:10px}
+.gi-cf-err{color:#c0392b;font-size:13px;margin-bottom:8px}
+/* Elementor Certificate Lightbox Theme Colors */
+.dialog-lightbox-widget{background-color:rgba(13,43,24,.92)!important}
+.dialog-lightbox-widget .dialog-lightbox-close-button{background:var(--gi-pr)!important;color:#fff!important;border:1.5px solid #a5d66b!important;border-radius:99px!important;width:38px;height:38px;display:grid!important;place-items:center!important;opacity:1!important}
+.dialog-lightbox-widget .dialog-lightbox-close-button:hover{background:#a5d66b!important;color:var(--gi-pr2)!important}
+.dialog-lightbox-widget .elementor-swiper-button-prev,.dialog-lightbox-widget .elementor-swiper-button-next{background:var(--gi-pr2)!important;color:#a5d66b!important;border:1px solid rgba(165,214,107,.6)!important;border-radius:99px!important;width:42px;height:42px}
+.dialog-lightbox-widget .elementor-swiper-button-prev:hover,.dialog-lightbox-widget .elementor-swiper-button-next:hover{background:var(--gi-pr)!important;color:#fff!important}

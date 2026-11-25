@@ -1,0 +1,1089 @@
+[
+  {
+    "id": 1,
+    "slug": "carry-bags",
+    "sku": "GI-CB-001",
+    "name": "Compostable Shopping / Carry Bag",
+    "category": "Shopping / Carry bags",
+    "categorySlug": "carry-bags",
+    "shortDesc": "Certified compostable carry bags with fantastic mechanical strength, for supermarkets, food delivery, hotels and grocery stores.",
+    "longDesc": "Our Certified Compostable Carry Bags are a perfect solution for industries such as supermarkets, food delivery, hotels and grocery stores. Our Compostable Carry Bags offer fantastic mechanical strength for carrying all kinds of goods. There is no restriction on thickness on any kind of Compostable Product.",
+    "imageUrl": "/assets/aistudio/carry-bags_1f500ca0.webp",
+    "exportImageFilename": "carry-bags.webp",
+    "basePrice": 120,
+    "mrpPrice": 155,
+    "packageUnit": "kg",
+    "packageLabel": "1 kg bulk bundle",
+    "maxOrderQty": 100,
+    "bulkNegotiable": true,
+    "totalStockQty": 600,
+    "stockQty": 600,
+    "stockStatus": "instock",
+    "qualities": [
+      {
+        "id": "nice",
+        "name": "Nice quality",
+        "pricePerUnit": 190,
+        "mrpPerUnit": 240
+      },
+      {
+        "id": "thick",
+        "name": "Thick quality",
+        "pricePerUnit": 170,
+        "mrpPerUnit": 215
+      },
+      {
+        "id": "mixed",
+        "name": "Mixed quality",
+        "pricePerUnit": 120,
+        "mrpPerUnit": 155
+      }
+    ],
+    "sizes": [
+      {
+        "id": "cb-10x12",
+        "sizeLabel": "10 × 12 in",
+        "packageOverride": "1 kg bundle",
+        "piecesPerUnit": 240,
+        "piecesByQuality": {
+          "Nice quality": 240,
+          "Thick quality": 180,
+          "Mixed quality": 150
+        },
+        "carryingCapacity": "1 kg",
+        "totalStockQty": 60,
+        "stockQty": 60,
+        "colorStocks": {
+          "White": 10,
+          "Green": 10,
+          "Red": 10,
+          "Yellow": 10,
+          "Black": 10,
+          "Transparent": 10
+        }
+      },
+      {
+        "id": "cb-10x13",
+        "sizeLabel": "10 × 13 in",
+        "packageOverride": "1 kg bundle",
+        "piecesPerUnit": 220,
+        "piecesByQuality": {
+          "Nice quality": 220,
+          "Thick quality": 170,
+          "Mixed quality": null
+        },
+        "carryingCapacity": "1.5 kg",
+        "totalStockQty": 60,
+        "stockQty": 60,
+        "colorStocks": {
+          "White": 10,
+          "Green": 10,
+          "Red": 10,
+          "Yellow": 10,
+          "Black": 10,
+          "Transparent": 10
+        }
+      },
+      {
+        "id": "cb-10x14",
+        "sizeLabel": "10 × 14 in",
+        "packageOverride": "1 kg bundle",
+        "piecesPerUnit": 190,
+        "piecesByQuality": {
+          "Nice quality": 190,
+          "Thick quality": 160,
+          "Mixed quality": 140
+        },
+        "carryingCapacity": "2 kg",
+        "totalStockQty": 60,
+        "stockQty": 60,
+        "colorStocks": {
+          "White": 10,
+          "Green": 10,
+          "Red": 10,
+          "Yellow": 10,
+          "Black": 10,
+          "Transparent": 10
+        }
+      },
+      {
+        "id": "cb-11x14",
+        "sizeLabel": "11 × 14 in",
+        "packageOverride": "1 kg bundle",
+        "piecesPerUnit": 170,
+        "piecesByQuality": {
+          "Nice quality": 170,
+          "Thick quality": 130,
+          "Mixed quality": 120
+        },
+        "carryingCapacity": "2.5 kg",
+        "totalStockQty": 60,
+        "stockQty": 60,
+        "colorStocks": {
+          "White": 10,
+          "Green": 10,
+          "Red": 10,
+          "Yellow": 10,
+          "Black": 10,
+          "Transparent": 10
+        }
+      },
+      {
+        "id": "cb-12x14",
+        "sizeLabel": "12 × 14 in",
+        "packageOverride": "1 kg bundle",
+        "piecesPerUnit": 150,
+        "piecesByQuality": {
+          "Nice quality": 150,
+          "Thick quality": 120,
+          "Mixed quality": 95
+        },
+        "carryingCapacity": "3 kg",
+        "totalStockQty": 60,
+        "stockQty": 60,
+        "colorStocks": {
+          "White": 10,
+          "Green": 10,
+          "Red": 10,
+          "Yellow": 10,
+          "Black": 10,
+          "Transparent": 10
+        }
+      },
+      {
+        "id": "cb-13x16",
+        "sizeLabel": "13 × 16 in",
+        "packageOverride": "1 kg bundle",
+        "piecesPerUnit": 120,
+        "piecesByQuality": {
+          "Nice quality": 120,
+          "Thick quality": 90,
+          "Mixed quality": 80
+        },
+        "carryingCapacity": "4 kg",
+        "totalStockQty": 60,
+        "stockQty": 60,
+        "colorStocks": {
+          "White": 10,
+          "Green": 10,
+          "Red": 10,
+          "Yellow": 10,
+          "Black": 10,
+          "Transparent": 10
+        }
+      },
+      {
+        "id": "cb-14x16",
+        "sizeLabel": "14 × 16 in",
+        "packageOverride": "1 kg bundle",
+        "piecesPerUnit": 100,
+        "piecesByQuality": {
+          "Nice quality": 100,
+          "Thick quality": 70,
+          "Mixed quality": 70
+        },
+        "carryingCapacity": "5 kg",
+        "totalStockQty": 60,
+        "stockQty": 60,
+        "colorStocks": {
+          "White": 10,
+          "Green": 10,
+          "Red": 10,
+          "Yellow": 10,
+          "Black": 10,
+          "Transparent": 10
+        }
+      },
+      {
+        "id": "cb-16x20",
+        "sizeLabel": "16 × 20 in",
+        "packageOverride": "1 kg bundle",
+        "piecesPerUnit": 70,
+        "piecesByQuality": {
+          "Nice quality": 70,
+          "Thick quality": 45,
+          "Mixed quality": 40
+        },
+        "carryingCapacity": "7 kg",
+        "totalStockQty": 60,
+        "stockQty": 60,
+        "colorStocks": {
+          "White": 10,
+          "Green": 10,
+          "Red": 10,
+          "Yellow": 10,
+          "Black": 10,
+          "Transparent": 10
+        }
+      },
+      {
+        "id": "cb-17x20",
+        "sizeLabel": "17 × 20 in",
+        "packageOverride": "1 kg bundle",
+        "piecesPerUnit": 60,
+        "piecesByQuality": {
+          "Nice quality": 60,
+          "Thick quality": 40,
+          "Mixed quality": 35
+        },
+        "carryingCapacity": "8 kg",
+        "totalStockQty": 60,
+        "stockQty": 60,
+        "colorStocks": {
+          "White": 10,
+          "Green": 10,
+          "Red": 10,
+          "Yellow": 10,
+          "Black": 10,
+          "Transparent": 10
+        }
+      },
+      {
+        "id": "cb-21x25",
+        "sizeLabel": "21 × 25 in",
+        "packageOverride": "1 kg bundle",
+        "piecesPerUnit": 47,
+        "piecesByQuality": {
+          "Nice quality": 47,
+          "Thick quality": 35,
+          "Mixed quality": 30
+        },
+        "carryingCapacity": "10 kg",
+        "totalStockQty": 60,
+        "stockQty": 60,
+        "colorStocks": {
+          "White": 10,
+          "Green": 10,
+          "Red": 10,
+          "Yellow": 10,
+          "Black": 10,
+          "Transparent": 10
+        }
+      }
+    ],
+    "colors": [
+      {
+        "id": "white",
+        "name": "White",
+        "hex": "#f5f5f5"
+      },
+      {
+        "id": "green",
+        "name": "Green",
+        "hex": "#2e7d32"
+      },
+      {
+        "id": "red",
+        "name": "Red",
+        "hex": "#e53935"
+      },
+      {
+        "id": "yellow",
+        "name": "Yellow",
+        "hex": "#fdd835"
+      },
+      {
+        "id": "black",
+        "name": "Black",
+        "hex": "#222222"
+      },
+      {
+        "id": "transparent",
+        "name": "Transparent",
+        "hex": "#cfe3ea"
+      }
+    ],
+    "highlights": [
+      "Non-hazardous",
+      "Eco-friendly",
+      "CPCB certified compostable (ISO 17088)",
+      "Decomposes in soil/landfill within 6 months",
+      "Customisable",
+      "Fantastic weight-carrying capacity",
+      "No restriction on thickness"
+    ],
+    "alsoKnownAs": "Shopping Bags, T-Shirt Bags, Jhabla Bags and more.",
+    "storageNote": "Store in a dry and dark place.",
+    "materialNote": "Compostable, starch-based",
+    "standardNote": "EN13432 / ISO 17088 (depending on grade)",
+    "showOnShop": true
+  },
+  {
+    "id": 103,
+    "slug": "sambar-cover",
+    "sku": "GI-SC-103",
+    "name": "Sambar Cover / Pouch Cover",
+    "category": "Sambar Cover / Pouch Cover",
+    "categorySlug": "sambar-cover",
+    "shortDesc": "Compostable sambar cover and pouch cover for food packing and takeaway use.",
+    "longDesc": "Compostable sambar covers and pouch covers for food packing and takeaway use. Select from the available standard sizes and pack quantities below.",
+    "imageUrl": "/assets/aistudio/sambar-cover_648420a7.webp",
+    "exportImageFilename": "sambar-cover.webp",
+    "basePrice": 200,
+    "mrpPrice": 250,
+    "packageUnit": "kg",
+    "packageLabel": "1 kg food-grade bundle",
+    "maxOrderQty": 100,
+    "bulkNegotiable": true,
+    "totalStockQty": 320,
+    "stockQty": 320,
+    "stockStatus": "instock",
+    "qualities": [],
+    "sizes": [
+      {
+        "id": "sc-35x5",
+        "sizeLabel": "3½ × 5 in",
+        "packageOverride": "1 kg bundle",
+        "piecesPerUnit": 500,
+        "carryingCapacity": "0.25 kg",
+        "mrpOverride": 280,
+        "priceOverride": 230,
+        "totalStockQty": 80,
+        "stockQty": 80,
+        "colorStocks": {
+          "White": 80
+        }
+      },
+      {
+        "id": "sc-4x6",
+        "sizeLabel": "4 × 6 in",
+        "packageOverride": "1 kg bundle",
+        "piecesPerUnit": 400,
+        "carryingCapacity": "0.50 kg",
+        "mrpOverride": 275,
+        "priceOverride": 225,
+        "totalStockQty": 60,
+        "stockQty": 60,
+        "colorStocks": {
+          "White": 60
+        }
+      },
+      {
+        "id": "sc-5x7",
+        "sizeLabel": "5 × 7 in",
+        "packageOverride": "1 kg bundle",
+        "piecesPerUnit": 300,
+        "carryingCapacity": "0.75 kg",
+        "mrpOverride": 270,
+        "priceOverride": 220,
+        "totalStockQty": 60,
+        "stockQty": 60,
+        "colorStocks": {
+          "White": 60
+        }
+      },
+      {
+        "id": "sc-6x9",
+        "sizeLabel": "6 × 9 in",
+        "packageOverride": "1 kg bundle",
+        "piecesPerUnit": 200,
+        "carryingCapacity": "1 kg",
+        "mrpOverride": 260,
+        "priceOverride": 210,
+        "totalStockQty": 60,
+        "stockQty": 60,
+        "colorStocks": {
+          "White": 60
+        }
+      },
+      {
+        "id": "sc-8x10",
+        "sizeLabel": "8 × 10 in",
+        "packageOverride": "1 kg bundle",
+        "piecesPerUnit": 100,
+        "carryingCapacity": "1.5 kg",
+        "mrpOverride": 250,
+        "priceOverride": 200,
+        "totalStockQty": 60,
+        "stockQty": 60,
+        "colorStocks": {
+          "White": 60
+        }
+      }
+    ],
+    "colors": [
+      {
+        "id": "white",
+        "name": "White",
+        "hex": "#f5f5f5"
+      }
+    ],
+    "highlights": [
+      "Compostable sambar cover / pouch cover",
+      "Five standard sizes",
+      "Suitable for food packing and takeaway use",
+      "Custom requirements can be discussed"
+    ],
+    "alsoKnownAs": "Sambar Covers, Pouch Covers and food-packing covers.",
+    "storageNote": "Store in a clean, dry place.",
+    "materialNote": "Compostable packaging material",
+    "standardNote": "EN13432 / ISO 17088 (depending on grade)",
+    "showOnShop": true
+  },
+  {
+    "id": 2,
+    "slug": "grocery-bags",
+    "sku": "GI-GB-002",
+    "name": "Compostable Grocery Bag",
+    "category": "Grocery Bags",
+    "categorySlug": "grocery-bags",
+    "shortDesc": "Certified compostable grocery bags.",
+    "longDesc": "Our Certified Compostable Grocery Bags are a perfect solution for industries such as supermarkets, food delivery, grocery/kirana stores and organic food stores. We also make Grocery Bags on roll with a core inside.",
+    "imageUrl": "/assets/aistudio/grocery-bags_c02417bf.webp",
+    "exportImageFilename": "grocery-bags.webp",
+    "basePrice": 185,
+    "mrpPrice": 230,
+    "packageUnit": "kg",
+    "packageLabel": "1 kg / roll bundle",
+    "maxOrderQty": 100,
+    "bulkNegotiable": true,
+    "totalStockQty": 510,
+    "stockQty": 510,
+    "stockStatus": "instock",
+    "qualities": [],
+    "sizes": [
+      {
+        "id": "gb-6x8",
+        "sizeLabel": "6 × 8 in",
+        "packageOverride": "1 kg / roll",
+        "piecesPerUnit": 500,
+        "carryingCapacity": "0.250 kg",
+        "mrpOverride": 270,
+        "priceOverride": 220,
+        "totalStockQty": 90,
+        "stockQty": 90,
+        "colorStocks": {
+          "White": 15,
+          "Green": 15,
+          "Red": 15,
+          "Yellow": 15,
+          "Black": 15,
+          "Transparent": 15
+        }
+      },
+      {
+        "id": "gb-6x9",
+        "sizeLabel": "6 × 9 in",
+        "packageOverride": "1 kg / roll",
+        "piecesPerUnit": 360,
+        "carryingCapacity": "0.500 kg",
+        "mrpOverride": 260,
+        "priceOverride": 210,
+        "totalStockQty": 90,
+        "stockQty": 90,
+        "colorStocks": {
+          "White": 15,
+          "Green": 15,
+          "Red": 15,
+          "Yellow": 15,
+          "Black": 15,
+          "Transparent": 15
+        }
+      },
+      {
+        "id": "gb-9x12",
+        "sizeLabel": "9 × 12 in",
+        "packageOverride": "1 kg / roll",
+        "piecesPerUnit": 200,
+        "carryingCapacity": "1 kg",
+        "mrpOverride": 250,
+        "priceOverride": 200,
+        "totalStockQty": 90,
+        "stockQty": 90,
+        "colorStocks": {
+          "White": 15,
+          "Green": 15,
+          "Red": 15,
+          "Yellow": 15,
+          "Black": 15,
+          "Transparent": 15
+        }
+      },
+      {
+        "id": "gb-10x14",
+        "sizeLabel": "10 × 14 in",
+        "packageOverride": "1 kg / roll",
+        "piecesPerUnit": 130,
+        "carryingCapacity": "2 kg",
+        "mrpOverride": 245,
+        "priceOverride": 195,
+        "totalStockQty": 90,
+        "stockQty": 90,
+        "colorStocks": {
+          "White": 15,
+          "Green": 15,
+          "Red": 15,
+          "Yellow": 15,
+          "Black": 15,
+          "Transparent": 15
+        }
+      },
+      {
+        "id": "gb-10x16",
+        "sizeLabel": "10 × 16 in",
+        "packageOverride": "1 kg / roll",
+        "piecesPerUnit": 110,
+        "carryingCapacity": "3 kg",
+        "mrpOverride": 240,
+        "priceOverride": 190,
+        "totalStockQty": 75,
+        "stockQty": 75,
+        "colorStocks": {
+          "White": 12,
+          "Green": 12,
+          "Red": 12,
+          "Yellow": 12,
+          "Black": 12,
+          "Transparent": 12
+        }
+      },
+      {
+        "id": "gb-14x20",
+        "sizeLabel": "14 × 20 in",
+        "packageOverride": "1 kg / roll",
+        "piecesPerUnit": 70,
+        "carryingCapacity": "5 kg",
+        "mrpOverride": 230,
+        "priceOverride": 185,
+        "totalStockQty": 75,
+        "stockQty": 75,
+        "colorStocks": {
+          "White": 13,
+          "Green": 13,
+          "Red": 13,
+          "Yellow": 13,
+          "Black": 13,
+          "Transparent": 13
+        }
+      }
+    ],
+    "colors": [
+      {
+        "id": "white",
+        "name": "White",
+        "hex": "#f5f5f5"
+      },
+      {
+        "id": "green",
+        "name": "Green",
+        "hex": "#2e7d32"
+      },
+      {
+        "id": "red",
+        "name": "Red",
+        "hex": "#e53935"
+      },
+      {
+        "id": "yellow",
+        "name": "Yellow",
+        "hex": "#fdd835"
+      },
+      {
+        "id": "black",
+        "name": "Black",
+        "hex": "#222222"
+      },
+      {
+        "id": "transparent",
+        "name": "Transparent",
+        "hex": "#cfe3ea"
+      }
+    ],
+    "highlights": [
+      "Non-hazardous",
+      "Eco-friendly",
+      "CPCB certified compostable (ISO 17088)",
+      "Decomposes in soil/landfill within 6 months",
+      "Customisable",
+      "Fantastic weight-carrying capacity",
+      "No restriction on thickness"
+    ],
+    "alsoKnownAs": "Kirana Bags, Folding Bags, Vegetable Bags, Pouch Bags and more.",
+    "storageNote": "Store in a dry and dark place.",
+    "materialNote": "Compostable, starch-based",
+    "standardNote": "EN13432 / ISO 17088 (depending on grade)",
+    "showOnShop": true
+  },
+  {
+    "id": 3,
+    "slug": "transparent-bags",
+    "sku": "GI-TB-003",
+    "name": "Compostable Transparent Packaging Bag",
+    "category": "Transparent Packaging Bags",
+    "categorySlug": "transparent-bags",
+    "shortDesc": "Certified compostable transparent packaging bags.",
+    "longDesc": "Our Certified Compostable Transparent Packing Bags are a perfect solution for industries such as garment packaging, textile, magazine covers and food packaging. They offer unparalleled transparency and are a great alternative to HM and BOPP.",
+    "imageUrl": "/assets/aistudio/transparent-bags_b07cc6aa.webp",
+    "exportImageFilename": "transparent-bags.webp",
+    "basePrice": 280,
+    "mrpPrice": 340,
+    "packageUnit": "kg",
+    "packageLabel": "1 kg crystal-clear pack",
+    "maxOrderQty": 100,
+    "bulkNegotiable": true,
+    "totalStockQty": 260,
+    "stockQty": 260,
+    "stockStatus": "instock",
+    "qualities": [],
+    "sizes": [
+      {
+        "id": "tb-7x11",
+        "sizeLabel": "7 × 11 in",
+        "packageOverride": "1 kg pack",
+        "piecesPerUnit": 415,
+        "carryingCapacity": "1 kg",
+        "thicknessMicrons": "20",
+        "mrpOverride": 380,
+        "priceOverride": 320,
+        "totalStockQty": 60,
+        "stockQty": 60,
+        "colorStocks": {
+          "Transparent": 60
+        }
+      },
+      {
+        "id": "tb-8x13",
+        "sizeLabel": "8 × 13 in",
+        "packageOverride": "1 kg pack",
+        "piecesPerUnit": 310,
+        "carryingCapacity": "2 kg",
+        "thicknessMicrons": "20",
+        "mrpOverride": 370,
+        "priceOverride": 310,
+        "totalStockQty": 50,
+        "stockQty": 50,
+        "colorStocks": {
+          "Transparent": 50
+        }
+      },
+      {
+        "id": "tb-10x14",
+        "sizeLabel": "10 × 14 in",
+        "packageOverride": "1 kg pack",
+        "piecesPerUnit": 225,
+        "carryingCapacity": "3 kg",
+        "thicknessMicrons": "20",
+        "mrpOverride": 360,
+        "priceOverride": 300,
+        "totalStockQty": 50,
+        "stockQty": 50,
+        "colorStocks": {
+          "Transparent": 50
+        }
+      },
+      {
+        "id": "tb-12x16",
+        "sizeLabel": "12 × 16 in",
+        "packageOverride": "1 kg pack",
+        "piecesPerUnit": 135,
+        "carryingCapacity": "4-5 kg",
+        "thicknessMicrons": "25",
+        "mrpOverride": 350,
+        "priceOverride": 290,
+        "totalStockQty": 50,
+        "stockQty": 50,
+        "colorStocks": {
+          "Transparent": 50
+        }
+      },
+      {
+        "id": "tb-14x18",
+        "sizeLabel": "14 × 18 in",
+        "packageOverride": "1 kg pack",
+        "piecesPerUnit": 100,
+        "carryingCapacity": "5-6 kg",
+        "thicknessMicrons": "25",
+        "mrpOverride": 340,
+        "priceOverride": 280,
+        "totalStockQty": 50,
+        "stockQty": 50,
+        "colorStocks": {
+          "Transparent": 50
+        }
+      }
+    ],
+    "colors": [
+      {
+        "id": "transparent",
+        "name": "Transparent",
+        "hex": "#cfe3ea"
+      }
+    ],
+    "highlights": [
+      "Non-hazardous",
+      "Eco-friendly",
+      "CPCB certified compostable (ISO 17088)",
+      "Decomposes in soil/landfill within 6 months",
+      "Customisable",
+      "No restriction on thickness"
+    ],
+    "storageNote": "Store in a dry and dark place.",
+    "materialNote": "Compostable, starch-based",
+    "standardNote": "EN13432 / ISO 17088 (depending on grade)",
+    "showOnShop": true
+  },
+  {
+    "id": 4,
+    "slug": "garbage-bags",
+    "sku": "GI-GBA-004",
+    "name": "Compostable Garbage Bag",
+    "category": "Garbage Bags",
+    "categorySlug": "garbage-bags",
+    "shortDesc": "Certified compostable garbage bags in sizes from kitchen bins to large waste containers.",
+    "longDesc": "Our Certified Compostable Garbage Bags are a perfect solution for all your waste disposal needs, whether it’s household waste, industrial waste, hotel waste or office waste. Reliable for both dry and wet waste.",
+    "imageUrl": "/assets/aistudio/garbage-bags_76ec3ab5.webp",
+    "exportImageFilename": "garbage-bags.webp",
+    "basePrice": 100,
+    "mrpPrice": 130,
+    "packageUnit": "pack",
+    "packageLabel": "1 roll pack (10–15 pcs)",
+    "maxOrderQty": 100,
+    "bulkNegotiable": true,
+    "totalStockQty": 600,
+    "stockQty": 600,
+    "stockStatus": "instock",
+    "qualities": [],
+    "sizes": [
+      {
+        "id": "gba-17x19",
+        "sizeLabel": "17 × 19 in",
+        "typeLabel": "Small",
+        "packageOverride": "15 pcs roll",
+        "piecesPerUnit": 15,
+        "carryingCapacity": "3 kg",
+        "mrpOverride": 130,
+        "priceOverride": 100,
+        "totalStockQty": 210,
+        "stockQty": 210,
+        "colorStocks": {
+          "White": 35,
+          "Green": 35,
+          "Red": 35,
+          "Yellow": 35,
+          "Black": 35,
+          "Transparent": 35
+        }
+      },
+      {
+        "id": "gba-19x21",
+        "sizeLabel": "19 × 21 in",
+        "typeLabel": "Medium",
+        "packageOverride": "15 pcs roll",
+        "piecesPerUnit": 15,
+        "carryingCapacity": "5 kg",
+        "mrpOverride": 150,
+        "priceOverride": 120,
+        "totalStockQty": 210,
+        "stockQty": 210,
+        "colorStocks": {
+          "White": 35,
+          "Green": 35,
+          "Red": 35,
+          "Yellow": 35,
+          "Black": 35,
+          "Transparent": 35
+        }
+      },
+      {
+        "id": "gba-29x39",
+        "sizeLabel": "29 × 39 in",
+        "typeLabel": "Extra Large",
+        "packageOverride": "10 pcs roll",
+        "piecesPerUnit": 10,
+        "carryingCapacity": "12 kg",
+        "mrpOverride": 195,
+        "priceOverride": 155,
+        "totalStockQty": 180,
+        "stockQty": 180,
+        "colorStocks": {
+          "White": 30,
+          "Green": 30,
+          "Red": 30,
+          "Yellow": 30,
+          "Black": 30,
+          "Transparent": 30
+        }
+      }
+    ],
+    "colors": [
+      {
+        "id": "white",
+        "name": "White",
+        "hex": "#f5f5f5"
+      },
+      {
+        "id": "green",
+        "name": "Green",
+        "hex": "#2e7d32"
+      },
+      {
+        "id": "red",
+        "name": "Red",
+        "hex": "#e53935"
+      },
+      {
+        "id": "yellow",
+        "name": "Yellow",
+        "hex": "#fdd835"
+      },
+      {
+        "id": "black",
+        "name": "Black",
+        "hex": "#222222"
+      },
+      {
+        "id": "transparent",
+        "name": "Transparent",
+        "hex": "#cfe3ea"
+      }
+    ],
+    "highlights": [
+      "Non-hazardous",
+      "Eco-friendly",
+      "CPCB certified compostable (ISO 17088)",
+      "Decomposes in soil/landfill within 6 months",
+      "Customisable",
+      "Counts as a CSR activity"
+    ],
+    "alsoKnownAs": "Trash Bags, Waste Bags, Dustbin Bags, Bio Waste Bags and more.",
+    "storageNote": "Store in a dry and dark place.",
+    "materialNote": "Compostable, starch-based",
+    "standardNote": "EN13432 / ISO 17088 (depending on grade)",
+    "showOnShop": true
+  },
+  {
+    "id": 105,
+    "slug": "d-cut",
+    "sku": "GI-DC-105",
+    "name": "Compostable Textile Bag / D-Cut Bag",
+    "category": "Textile Bag / D-Cut Bag",
+    "categorySlug": "d-cut",
+    "shortDesc": "Compostable D-cut handle bags for retail, shopping and everyday packaging.",
+    "longDesc": "Our compostable D-cut bags are designed with a convenient die-cut handle for easy carrying. Suitable for retail, shopping and product packaging, with space for custom branding and printing.",
+    "imageUrl": "/assets/aistudio/d-cut-bag_e044c65d.webp",
+    "exportImageFilename": "d-cut-bag.webp",
+    "basePrice": 175,
+    "mrpPrice": 220,
+    "packageUnit": "kg",
+    "packageLabel": "1 kg retail bundle",
+    "maxOrderQty": 100,
+    "bulkNegotiable": true,
+    "totalStockQty": 380,
+    "stockQty": 380,
+    "stockStatus": "instock",
+    "qualities": [],
+    "sizes": [
+      {
+        "id": "dc-8x11",
+        "sizeLabel": "8 × 11 in",
+        "packageOverride": "1 kg bundle",
+        "piecesPerUnit": 210,
+        "carryingCapacity": "1 kg",
+        "mrpOverride": 260,
+        "priceOverride": 210,
+        "totalStockQty": 96,
+        "stockQty": 96,
+        "colorStocks": {
+          "White": 16,
+          "Green": 16,
+          "Red": 16,
+          "Yellow": 16,
+          "Black": 16,
+          "Transparent": 16
+        }
+      },
+      {
+        "id": "dc-10x15",
+        "sizeLabel": "10 × 15 in",
+        "packageOverride": "1 kg bundle",
+        "piecesPerUnit": 120,
+        "carryingCapacity": "2.5 kg",
+        "mrpOverride": 250,
+        "priceOverride": 200,
+        "totalStockQty": 96,
+        "stockQty": 96,
+        "colorStocks": {
+          "White": 16,
+          "Green": 16,
+          "Red": 16,
+          "Yellow": 16,
+          "Black": 16,
+          "Transparent": 16
+        }
+      },
+      {
+        "id": "dc-12x18",
+        "sizeLabel": "12 × 18 in",
+        "packageOverride": "1 kg bundle",
+        "piecesPerUnit": 70,
+        "carryingCapacity": "4 kg",
+        "mrpOverride": 235,
+        "priceOverride": 190,
+        "totalStockQty": 96,
+        "stockQty": 96,
+        "colorStocks": {
+          "White": 16,
+          "Green": 16,
+          "Red": 16,
+          "Yellow": 16,
+          "Black": 16,
+          "Transparent": 16
+        }
+      },
+      {
+        "id": "dc-18x20",
+        "sizeLabel": "18 × 20 in",
+        "packageOverride": "1 kg bundle",
+        "piecesPerUnit": 60,
+        "carryingCapacity": "6 kg",
+        "mrpOverride": 220,
+        "priceOverride": 175,
+        "totalStockQty": 92,
+        "stockQty": 92,
+        "colorStocks": {
+          "White": 15,
+          "Green": 15,
+          "Red": 15,
+          "Yellow": 15,
+          "Black": 15,
+          "Transparent": 15
+        }
+      }
+    ],
+    "colors": [
+      {
+        "id": "white",
+        "name": "White",
+        "hex": "#f5f5f5"
+      },
+      {
+        "id": "green",
+        "name": "Green",
+        "hex": "#2e7d32"
+      },
+      {
+        "id": "red",
+        "name": "Red",
+        "hex": "#e53935"
+      },
+      {
+        "id": "yellow",
+        "name": "Yellow",
+        "hex": "#fdd835"
+      },
+      {
+        "id": "black",
+        "name": "Black",
+        "hex": "#222222"
+      },
+      {
+        "id": "transparent",
+        "name": "Transparent",
+        "hex": "#cfe3ea"
+      }
+    ],
+    "highlights": [
+      "Convenient die-cut handle",
+      "Four standard sizes",
+      "Available in White, Green, Red, Yellow, Black and Transparent",
+      "Custom printing available"
+    ],
+    "alsoKnownAs": "D-cut handle bag, die-cut handle bag and shopping carry bag.",
+    "storageNote": "Store in a dry and dark place.",
+    "materialNote": "Compostable, starch-based",
+    "standardNote": "EN13432 / ISO 17088 (depending on grade)",
+    "showOnShop": true
+  },
+  {
+    "id": 106,
+    "slug": "flat-cover",
+    "sku": "GI-FC-106",
+    "name": "Compostable Flat Cover",
+    "category": "Flat Cover",
+    "categorySlug": "flat-cover",
+    "shortDesc": "Compostable flat covers for food, retail and everyday product packaging.",
+    "longDesc": "Our compostable flat covers provide a simple, practical covering solution for food, retail and general product packaging. Custom branding and bulk requirements can be discussed with our team.",
+    "imageUrl": "/assets/aistudio/flat-cover_203e458e.webp",
+    "exportImageFilename": "flat-cover.webp",
+    "basePrice": 185,
+    "mrpPrice": 230,
+    "packageUnit": "kg",
+    "packageLabel": "1 kg flat-pack bundle",
+    "maxOrderQty": 100,
+    "bulkNegotiable": true,
+    "totalStockQty": 290,
+    "stockQty": 290,
+    "stockStatus": "instock",
+    "qualities": [],
+    "sizes": [
+      {
+        "id": "fc-10x10",
+        "sizeLabel": "10 × 10 in",
+        "packageOverride": "1 kg bundle",
+        "piecesPerUnit": 300,
+        "carryingCapacity": "1 kg",
+        "mrpOverride": 260,
+        "priceOverride": 210,
+        "totalStockQty": 100,
+        "stockQty": 100,
+        "colorStocks": {
+          "White": 50,
+          "Transparent": 50
+        }
+      },
+      {
+        "id": "fc-12x12",
+        "sizeLabel": "12 × 12 in",
+        "packageOverride": "1 kg bundle",
+        "piecesPerUnit": 200,
+        "carryingCapacity": "2 kg",
+        "mrpOverride": 250,
+        "priceOverride": 200,
+        "totalStockQty": 100,
+        "stockQty": 100,
+        "colorStocks": {
+          "White": 50,
+          "Transparent": 50
+        }
+      },
+      {
+        "id": "fc-14x14",
+        "sizeLabel": "14 × 14 in",
+        "packageOverride": "1 kg bundle",
+        "piecesPerUnit": 150,
+        "carryingCapacity": "3 kg",
+        "mrpOverride": 230,
+        "priceOverride": 185,
+        "totalStockQty": 90,
+        "stockQty": 90,
+        "colorStocks": {
+          "White": 45,
+          "Transparent": 45
+        }
+      }
+    ],
+    "colors": [
+      {
+        "id": "white",
+        "name": "White",
+        "hex": "#ffffff"
+      },
+      {
+        "id": "transparent",
+        "name": "Transparent",
+        "hex": "#d9e6e8"
+      }
+    ],
+    "highlights": [
+      "Flat cover format",
+      "Three standard sizes",
+      "Available in White and Transparent",
+      "Custom branding available"
+    ],
+    "alsoKnownAs": "Flat open-top cover without a die-cut handle.",
+    "storageNote": "Store in a dry and dark place.",
+    "materialNote": "Compostable, starch-based",
+    "standardNote": "EN13432 / ISO 17088 (depending on grade)",
+    "showOnShop": true
+  }
+]

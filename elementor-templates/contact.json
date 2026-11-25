@@ -1,0 +1,398 @@
+{
+  "version": "0.4",
+  "title": "Green India - Contact Us",
+  "type": "page",
+  "content": [
+    {
+      "id": "c468",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "flex_direction": "column",
+        "content_width": "full",
+        "flex_gap": {
+          "unit": "px",
+          "size": 18,
+          "column": "18",
+          "row": "18"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "12",
+          "right": "0",
+          "bottom": "12",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_background": "gradient",
+        "background_color": "#123d22",
+        "background_color_b": "#1b5e20",
+        "background_gradient_angle": {
+          "unit": "deg",
+          "size": 120
+        }
+      },
+      "elements": [
+        {
+          "id": "c467",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "flex_direction": "column",
+            "content_width": "boxed",
+            "flex_gap": {
+              "unit": "px",
+              "size": 10,
+              "column": "10",
+              "row": "10"
+            },
+            "padding": {
+              "unit": "px",
+              "top": "48",
+              "right": "20",
+              "bottom": "52",
+              "left": "20",
+              "isLinked": false
+            },
+            "boxed_width": {
+              "unit": "px",
+              "size": 1120
+            }
+          },
+          "elements": [
+            {
+              "id": "t464",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Contact Us</p>",
+                "align": "left",
+                "text_color": "#a5d66b",
+                "typography_typography": "custom",
+                "typography_font_family": "Plus Jakarta Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.6
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "h465",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Let’s go green together.",
+                "header_size": "h1",
+                "align": "left",
+                "title_color": "#ffffff",
+                "typography_typography": "custom",
+                "typography_font_family": "Fraunces",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 44
+                },
+                "typography_font_weight": "800",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.15
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "t466",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Bulk orders or custom printing — we’d love to hear from you.</p>",
+                "align": "left",
+                "text_color": "#d3e6d4",
+                "typography_typography": "custom",
+                "typography_font_family": "Plus Jakarta Sans",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.6
+                }
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c473",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "flex_direction": "column",
+        "content_width": "full",
+        "flex_gap": {
+          "unit": "px",
+          "size": 18,
+          "column": "18",
+          "row": "18"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "24",
+          "right": "20",
+          "bottom": "24",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#f6f8f1"
+      },
+      "elements": [
+        {
+          "id": "c472",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "flex_direction": "row",
+            "content_width": "boxed",
+            "flex_gap": {
+              "unit": "px",
+              "size": 26,
+              "column": "26",
+              "row": "26"
+            },
+            "padding": {
+              "unit": "px",
+              "top": "48",
+              "right": "20",
+              "bottom": "64",
+              "left": "20",
+              "isLinked": false
+            },
+            "boxed_width": {
+              "unit": "px",
+              "size": 1120
+            }
+          },
+          "elements": [
+            {
+              "id": "c46f",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 14,
+                  "column": "14",
+                  "row": "14"
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "28",
+                  "right": "28",
+                  "bottom": "28",
+                  "left": "28",
+                  "isLinked": false
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 50
+                },
+                "background_background": "classic",
+                "background_color": "#123d22",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "20",
+                  "bottom": "20",
+                  "left": "20",
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "h469",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Green India Private Limited",
+                    "header_size": "h2",
+                    "align": "left",
+                    "title_color": "#ffffff",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Fraunces",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 24
+                    },
+                    "typography_font_weight": "700",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.15
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "il46a",
+                  "elType": "widget",
+                  "widgetType": "icon-list",
+                  "settings": {
+                    "icon_list": [
+                      {
+                        "_id": "ili46b",
+                        "text": "📍 No.4, Sahjanand Ruber Industrial Estate, Bapinagar, Ahmedabad, Gujarat – 380024",
+                        "selected_icon": {
+                          "value": "fas fa-check",
+                          "library": "fa-solid"
+                        }
+                      },
+                      {
+                        "_id": "ili46c",
+                        "text": "📞 +91 94894 65676",
+                        "selected_icon": {
+                          "value": "fas fa-check",
+                          "library": "fa-solid"
+                        }
+                      },
+                      {
+                        "_id": "ili46d",
+                        "text": "✉️ greenindiabiobags.it@gmail.com",
+                        "selected_icon": {
+                          "value": "fas fa-check",
+                          "library": "fa-solid"
+                        }
+                      }
+                    ],
+                    "icon_color": "#a5d66b",
+                    "text_color": "#cfe3d1",
+                    "space_between": {
+                      "unit": "px",
+                      "size": 10
+                    },
+                    "divider": "yes",
+                    "divider_style": "dashed",
+                    "divider_color": "#dbe5d2"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "b46e",
+                  "elType": "widget",
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "Call now",
+                    "link": {
+                      "url": "tel:+919489465676",
+                      "is_external": "",
+                      "nofollow": ""
+                    },
+                    "background_color": "#a5d66b",
+                    "button_text_color": "#123d22",
+                    "button_background_hover_color": "#ffffff",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "99",
+                      "right": "99",
+                      "bottom": "99",
+                      "left": "99",
+                      "isLinked": true
+                    },
+                    "text_padding": {
+                      "unit": "px",
+                      "top": "12",
+                      "right": "24",
+                      "bottom": "12",
+                      "left": "24",
+                      "isLinked": false
+                    },
+                    "typography_typography": "custom",
+                    "typography_font_family": "Plus Jakarta Sans",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 15
+                    },
+                    "typography_font_weight": "600"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "c471",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 18,
+                  "column": "18",
+                  "row": "18"
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "28",
+                  "right": "28",
+                  "bottom": "28",
+                  "left": "28",
+                  "isLinked": false
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 50
+                },
+                "background_background": "classic",
+                "background_color": "#ffffff",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "20",
+                  "bottom": "20",
+                  "left": "20",
+                  "isLinked": true
+                },
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#dbe5d2"
+              },
+              "elements": [
+                {
+                  "id": "cform470",
+                  "elType": "widget",
+                  "widgetType": "gi_contact_form",
+                  "settings": {
+                    "form_title": "Send an enquiry",
+                    "button_text": "Send on WhatsApp",
+                    "whatsapp_number": "919489465676"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "page_settings": {
+    "background_background": "classic",
+    "background_color": "#f6f8f1"
+  }
+}
